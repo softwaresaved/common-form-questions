@@ -80,15 +80,15 @@ Checkboxes
 * Leader
 * Other
 
-#### sub-question-1
+#### sub-question-1:
 
-##### if chooses
+##### if chooses:
 Other
 
-##### ask question
+##### ask question:
 List other roles
 
-##### question type
+##### sub-question type:
 Text
 
 ### Career stage
@@ -280,4 +280,51 @@ Dropdown
 * (X3) Academic studies in education
 * (X9) Others in education
 * (Y0) Combined
+
+### Which primary funding body/charity/organisation would you normally turn to if seeking financial support for your research/work
+
+#### Type:
+Dropdown
+
+#### Options:
+* EPSRC
+* BBSRC
+* ESRC
+* MRC
+* NERC
+* AHRC
+* STFC
+* EU project
+* Wellcome Trust
+* Sloan Foundation
+* My Institution/Organisation
+* Other
+
+#### sub-question-1:
+
+##### if chooses:
+Other
+
+##### ask question:
+Please add other primary funder
+
+##### sub-question type:
+Text
+
+### Any additional funders
+
+#### Hint:
+Please separate funders with a comma
+
+#### Type:
+Text
+
+### What software do you use most often in your work? 
+
+#### Hint:
+Please separate different software products with a comma. If one is a web browser, please indicate the sites/applications/services you use.
+
+#### Type:
+Paragraph Text
+
 
