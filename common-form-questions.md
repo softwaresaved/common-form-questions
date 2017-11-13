@@ -6,7 +6,13 @@ Through events and the fellowship and other SSI activities, it's clear that cons
 
 This document covers the common questions we ask (and most of them have reasons and when they are applicable)
 
-## The Common Questions
+We have a number of sections covering
+
+* Core Questions(CQ) - mainly pertaining to demographics
+* Event Participation Questions(EPQ) - information gathering that drive the content of events
+* Event logistics Questions(ELQ) - information gathered to help organise logistics of e.g. place, food and access. 
+
+## Core Questions(CQ)
 Questions will appear as the heading of the section
 
 ### First Name
@@ -326,5 +332,55 @@ Please separate different software products with a comma. If one is a web browse
 
 #### Type:
 Paragraph Text
+
+### What problems do you see in your work where better software would help
+
+#### Type:
+Paragraph Text
+
+###  With regards to research software which statement best describes your situation
+
+#### Type:
+Dropdown
+
+#### Options:
+* I use software to support my research/work
+* I develop software  (code, tools, scripts) that helps support research/work; In the research context I consider myself a research software engineer (http://www.rse.ac.uk/who.html)
+* I am evenly balanced between developing (research) software and using software to support my research/work
+* I spend some time developing (research) software but predominantly do software enabled research/work
+* I spend some time doing research but predominantly develop software to support research/work
+* I advocate for software best practice in my domain
+* I lead a project or organisation that makes heavy use of software for research
+* I am involved with (research) software management
+* Other
+
+#### sub-question-1:
+
+##### if chooses:
+Other
+
+##### ask question:
+Please specify the relationship between software and your research/work
+
+##### sub-question type:
+Paragraph Text
+
+#### Is this your first engagement with a Software Sustainability Institute run activity
+
+#### Type:
+Dropdown
+
+#### Options:
+* Yes
+* No
+
+
+
+
+
+
+
+
+
 
 
