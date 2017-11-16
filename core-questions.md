@@ -8,9 +8,9 @@ This document covers the common questions we ask (and most of them have reasons 
 
 We have a number of sections covering
 
-* Core Questions(CQ) - mainly pertaining to demographics
-* Event Participation Questions(EPQ) - information gathering that drive the content of events
-* Event logistics Questions(ELQ) - information gathered to help organise logistics of e.g. place, food and access. 
+* Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics
+* Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
+* Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access. 
 
 ## Core Questions(CQ)
 Questions will appear as the heading of the section
