@@ -1,27 +1,31 @@
-# Common Form Questions
-_by Shoaib Sufi_
+# Core Questions(CQ)
 
 ## Introduction
-Through events and the fellowship and other SSI activities, it's clear that consistency in how we ask questions and the data we collect will allow us to do better analysis to understand our activities.
+These questions are mainly on understanding the demographics, relationship with software and engagement with the Institute.
 
-This document covers the common questions we ask (and most of them have reasons and when they are applicable)
 
-We have a number of sections covering
-
-* Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics
-* Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
-* Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access. 
-
-## Core Questions(CQ)
-Questions will appear as the heading of the section
+## The Core Questions
+Questions will appear as sub headings (level 3) of this section unless they are a sub question.
 
 ### First Name
 
+#### Type:
+Text
+
 ### Surname
+
+#### Type:
+Text
 
 ### Email Address
 
+#### Type:
+Text / Email (if available)
+
 ### Telephone
+
+#### Type:
+Text
 
 #### Applicability:
 only if needed e.g. Fellowship
