@@ -6,10 +6,10 @@ These questions are mainly pertaining to information which will help us run even
 ## The Logistics Questions
 Questions will appear as sub headings (level 3) of this section unless they are a sub question.
 
-### Will you be attending <this part of the schedule>
+### Will you be attending \<this part of the schedule\>
 
 #### Note:
-<this part of the schedule> could be something like the Dinner at a workshop, the Hackday evening at CW or the main Hackday, any part which might be considered distinct enough to require planning around but where the intent is not clear when people are registering.
+\<this part of the schedule\> could be something like the Dinner at a workshop, the Hackday evening at CW or the main Hackday, any part which might be considered distinct enough to require planning around but where the intent is not clear when people are registering.
 
 #### Options:
 * Yes
