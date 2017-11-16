@@ -1,5 +1,8 @@
 # common-form-questions
-Contains the questions we ask on forms, with reasons why (e.g. dependence on an event) and issues to track requested changes to these and related discussions
+Through events, fellowship and other SSI activities, it's clear that consistency in how we ask questions and the data we collect will allow us to do better analysis to understand our activities and participants.
+
+This project covers the common questions we ask (and most of them have reasons and when they are applicable)
+
 
 # Project Lead
 Shoaib Sufi
