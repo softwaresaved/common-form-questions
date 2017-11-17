@@ -16,6 +16,8 @@ Shoaib Sufi
 
 # Filenames and intent
 
+* Application Questions(AQ) - file:application-questions.md - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
 * Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics 
+* Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access.
 * Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
-* Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access. 
+
