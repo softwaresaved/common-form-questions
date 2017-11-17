@@ -378,12 +378,88 @@ Dropdown
 * Yes
 * No
 
+### How did you first hear about the \<the event\>
 
+#### Options:
+* Website
+* Newsletter
+* Twitter
+* Email direct from the Institute
+* Email from a mailing list
+* Email from a colleague
+* From an existing Fellow
+* At an Institute event
+* By involvement in an Institute Open Call
+* Other
 
+##### if chooses:
+Other
 
+##### ask question:
+Please specify how you first heard about \<the event\>
 
+##### sub-question type:
+Text
 
+### Is this the first Software Sustainability Institute event you are attending
+#### Optionality:
+Optional
+#### Type:
+Dropdown
+#### Options:
+* Yes
+* No
+* Maybe / Not sure
 
+### Please specify your Institutional webpage
+#### Optionality:
+Optional
+#### Type:
+Text
+
+### Please specify your ORCID
+#### Hint:
+(orcid.org/about/what-is-orcid/mission)
+#### Optionality:
+Optional
+#### Type:
+Text
+
+### Please specify your blog
+#### Optionality:
+Optional
+#### Type:
+Text
+
+### Please specify your Twitter handle
+#### Optionality:
+Optional
+#### Type:
+Text
+
+### Please specify your LinkedIn profile page
+#### Optionality:
+Optional
+#### Type:
+Text
+
+### Please specify any other relevant links pertaining to you and your work
+#### Hint:
+Please seperate links with a comma
+#### Optionality:
+Optional
+#### Type:
+Text
+
+### Would you like to receive the Software Sustainability Institute's weekly newsletter?
+#### Optionality:
+Optional
+#### Type:
+Dropdown
+#### Options:
+* Yes
+* No
+* I already receive it
 
 
 

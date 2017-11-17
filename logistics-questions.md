@@ -34,3 +34,35 @@ Don't turn this into a dropdown list, the scope of options in too large, better 
 Text
 
 ### Are you happy with us to share your name, affiliation and email address with the other participants 
+
+#### Options:
+* Yes
+* No
+* Other
+
+#### sub-question-1:
+
+##### if chooses:
+Other
+
+##### ask question:
+Please provide further details
+
+##### sub-question type:
+Text
+
+#### Are you happy for us to publish audio visual material of the general event that you may be present in? We will use them for publicity for future events and reporting on this event.
+
+#### Options:
+* Yes
+* No
+* Other
+
+#### sub-question-1:
+
+##### if chooses:
+Other
+
+##### ask question:
+Please provide further details
+
