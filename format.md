@@ -44,6 +44,7 @@ This contains hint text which can be used in system that support hints/descripti
 Generally has the following values, but it's left to your judgement if you think it might be different depending on the context (e.g. Applicability) and if the system support Manadatory if some other question is answered.
 
 * Mandatory
+* Mandatory (if applicable)
 * Optional
 
 #### Type:
@@ -52,6 +53,8 @@ This is the type of the response which can be from the list below. If something 
 * Paragraph Text - longer textual answer
 * Dropdown - a drop down list of options from which one can be chosen
 * Checkboxes - one or more options can be chosen
+* URL - an URL is required if the system can't check then can just use Text
+* Email - an emaill address is required if the system can't check for this then just use Text 
 
 #### sub-question-\<n\>
 This states that a sub question container is about to start and the tags below is (i.e. the consecutive level 5 headings are related to this sub-question)
