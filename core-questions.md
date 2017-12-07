@@ -411,6 +411,21 @@ Dropdown
 * No
 * Maybe / Not sure
 
+### Would you like to receive the Software Sustainability Institute's weekly newsletter?
+#### Optionality:
+Optional
+#### Type:
+Dropdown
+#### Options:
+* Yes
+* No
+* I already receive it
+
+## More about you
+
+### section hint:
+Please specify any additional information about you that you would like to share. Others have clicked on links if provided.
+
 ### Please specify your Institutional webpage
 #### Optionality:
 Optional
@@ -451,15 +466,6 @@ Optional
 #### Type:
 Text
 
-### Would you like to receive the Software Sustainability Institute's weekly newsletter?
-#### Optionality:
-Optional
-#### Type:
-Dropdown
-#### Options:
-* Yes
-* No
-* I already receive it
 
 
 

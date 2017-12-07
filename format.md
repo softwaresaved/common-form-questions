@@ -24,6 +24,13 @@ The following items will on the whole be seen by those answering the survey
 * ask question:
 * sub-question type:
 
+## \<Section\>
+The heading at level 2 is a section which is meant to aggregate related questions
+
+### section hint:
+This contains the hint for the entire section - if the system does not support sections then you could use this information elsewhere e.g. in the invitation text to explain the survey. You may include some of the 'Reason:' section text below to explain why you are collecting certain answers.
+
+
 ### \<Question\>
 The heading at level 3 contains the top level question text
 
