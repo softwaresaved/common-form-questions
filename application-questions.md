@@ -47,3 +47,79 @@ Text
 #### Optionality:
 Mandatory (if applicable)
 
+
+### Explain how software enables your research and/or what research is enabled by your software
+
+#### Applicability: 
+Open Call
+
+#### Optionality:
+Mandatory (if applicable)
+
+#### Type:
+Paragraph Text
+
+### If the software you develop is available under particular license(s), what are they
+
+#### Applicability:
+Open Call
+
+#### Type:
+Paragraph Text
+
+### Please specify any other links related to your software 
+
+#### Applicability:
+Open Call
+
+#### Hint:
+For example, website, blog, GitHub repository, Twitter account, Facebook pages, etc. (please separate links with a comma)
+
+#### Type:
+Paragraph Text
+
+### Which one or two key things would you most want the Institute to help you improve
+
+#### Applicability:
+Open Call
+
+#### Type:
+Paragraph Text
+
+### How would these things benefit you and/or your software or research community?
+
+#### Applicability:
+Open Call
+
+#### Hint:
+Where possible, specify any research groups, projects, companies or other teams or individuals that would directly benefit from this proposed work, and how they would benefit.
+
+#### Type:
+Paragraph Text
+
+### What were the main issues identified by the Institute's Software Evaluation Questionnaire?
+
+#### Applicability:
+Open Call
+
+#### Hint:
+Note that this is mandatory unless for some reason it does not apply to your case. You can access the questionnaire at http://www.software.ac.uk/online-sustainability-evaluation. If possible, please also provide a link to the submitted questionnaire which is provided at the end of the survey.
+
+#### Type:
+Paragraph Text
+
+### Any other information to support your application
+
+#### Applicability:
+Open Call
+
+#### Note:
+If you ask this quesition the you have to bring the answer to the attention of reviewers, how does it count in the assessment (e.g. only to be used for clarification?), also do you penalise people who don't provide information and what limit do you put on this information.
+
+#### Optionality:
+Optional
+
+#### Type:
+Paragraph Text
+
+

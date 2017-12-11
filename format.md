@@ -19,6 +19,7 @@ The following items will on the whole be seen by those answering the survey
 * Hint:
 * Optionality:
 * Type:
+* Options:
 * sub-question-\<n\>
 * if chooses:
 * ask question:
@@ -62,6 +63,9 @@ This is the type of the response which can be from the list below. If something 
 * Checkboxes - one or more options can be chosen
 * URL - an URL is required if the system can't check then can just use Text
 * Email - an emaill address is required if the system can't check for this then just use Text 
+
+#### Options:
+If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes) then this is a markdown list of the valid choices to answer the question
 
 #### sub-question-\<n\>
 This states that a sub question container is about to start and the tags below is (i.e. the consecutive level 5 headings are related to this sub-question)

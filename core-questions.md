@@ -64,6 +64,20 @@ Text
 #### Type:
 Text
 
+### What is the name of your software project
+
+#### Applicability
+Open Call
+
+#### Hint:
+Provide the name of the software you develop (or plan to develop), if it has one.
+
+#### Optionality
+Mandatory (if applicable)
+
+#### Type:
+Text
+
 ### What is your research area
 
 #### Type:
@@ -297,18 +311,20 @@ Dropdown
 Dropdown
 
 #### Options:
-* EPSRC
-* BBSRC
-* ESRC
-* MRC
-* NERC
-* AHRC
-* STFC
-* EU project
+* EPSRC (Engineering and Physical Sciences Research Council)
+* BBSRC (Biotechnology and Biological Sciences Research Council)
+* ESRC (Economic and Social Research Council)
+* AHRC (Arts and Humanities Research Council)
+* MRC (Medical Research Council)
+* NERC (Natural Environment Research Council)
+* STFC (Science and Technology Funding Council)
+* Jisc
 * Wellcome Trust
-* Sloan Foundation
+* EU Project
 * My Institution/Organisation
+* Sloan Foundation
 * Other
+
 
 #### sub-question-1:
 
@@ -328,6 +344,60 @@ Please separate funders with a comma
 
 #### Type:
 Text
+
+### From which source do you receive your primary funding related to the proposed work
+
+#### Applicability:
+Open Call
+
+#### Note:
+The Open Call is concerned about who funded the software not the natural funder of the individual that's why a different question is needed.
+
+#### Optionality:
+Mandatory (if applicable)
+
+#### Type:
+Dropdown
+
+#### Options:
+* EPSRC (Engineering and Physical Sciences Research Council)
+* BBSRC (Biotechnology and Biological Sciences Research Council)
+* ESRC (Economic and Social Research Council)
+* AHRC (Arts and Humanities Research Council)
+* MRC (Medical Research Council)
+* NERC (Natural Environment Research Council)
+* STFC (Science and Technology Funding Council)
+* Jisc
+* Wellcome Trust
+* EU Project
+* My Institution/Organisation
+* Sloan Foundation
+* Other
+
+#### sub-question-1:
+
+##### if chooses:
+Other
+
+##### ask question:
+Please add other primary funder
+
+##### sub-question type:
+Text
+
+### Which other sources of funding are related to the proposed work
+
+#### Applicability:
+Open Call
+
+#### Hint:
+Where possible, also provide a links (e.g to the RCUK Gateway to Research page for your project - search at http://gtr.rcuk.ac.uk/). For multiple links please separate them with a comma.
+
+#### Optionality:
+Optional
+
+#### Type:
+Paragraph Text
 
 ### What software do you use most often in your work? 
 
@@ -381,9 +451,9 @@ Dropdown
 ### How did you first hear about the \<the event\>
 
 #### Options:
-* Website
-* Newsletter
-* Twitter
+* Institute Website (www.software.ac.uk)
+* Institute Newsletter
+* Institute Twitter (@SoftwareSaved)
 * Email direct from the Institute
 * Email from a mailing list
 * Email from a colleague
