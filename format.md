@@ -60,6 +60,7 @@ This is the type of the response which can be from the list below. If something 
 * Text - short textual answer 
 * Paragraph Text - longer textual answer
 * Dropdown - a drop down list of options from which one can be chosen
+* Multiple Choice - a set of buttons displayed at the same time from which one can be chosen
 * Checkboxes - one or more options can be chosen
 * URL - an URL is required if the system can't check then can just use Text
 * Email - an emaill address is required if the system can't check for this then just use Text 
