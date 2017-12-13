@@ -18,7 +18,8 @@ Shoaib Sufi
 
 * Application Questions(AQ) - file:application-questions.md - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
 * Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics
+* Feedback Questions (FBQ) - file:feedback-questions.md - pertains to feedback/evaluation/impact etc questions after events and competitions
 * Format of Questions (FQ) - file:format.md - contains the format used in the markdown files to describe the common questions
+* Formt of Questions Cheatsheet (FQCC) - file:format-cheatsheet.md - contains essential headings from the file:format.md 
 * Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access.
 * Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
-
