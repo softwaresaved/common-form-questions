@@ -7,22 +7,26 @@ These questions are mainly on understanding the demographics, relationship with 
 ## The Core Questions
 Questions will appear as sub headings (level 3) of this section unless they are a sub question.
 
-### First Name
+### Question:
+First Name
 
 #### Type:
 Text
 
-### Surname
+### Question:
+Surname
 
 #### Type:
 Text
 
-### Email Address
+### Question:
+Email Address
 
 #### Type:
 Text / Email (if available)
 
-### Telephone
+### Question:
+Telephone
 
 #### Type:
 Text
@@ -30,7 +34,8 @@ Text
 #### Applicability:
 only if needed e.g. Fellowship
 
-### Gender
+### Question:
+Gender
 
 #### Type:
 Dropdown
@@ -41,7 +46,8 @@ Dropdown
 * Other
 * Rather not say
 
-### What is your ethnic group
+### Question:
+What is your ethnic group
 
 #### Answer-Choices:
 * White
@@ -49,22 +55,26 @@ Dropdown
 * Asian/Asian British
 * Black/African/Caribbean/Black British
 
-### Home Institution
+### Question:
+Home Institution
 
 #### Type:
 Text
 
-### Department
+### Question:
+Department
 
 #### Type:
 Text
 
-### Group within Department
+### Question:
+Group within Department
 
 #### Type:
 Text
 
-### What is the name of your software project
+### Question:
+What is the name of your software project
 
 #### Applicability
 Open Call
@@ -78,17 +88,20 @@ Mandatory (if applicable)
 #### Type:
 Text
 
-### What is your research area
+### Question:
+What is your research area
 
 #### Type:
 Text
 
-### What is your Job Title
+### Question:
+What is your Job Title
 
 #### Type:
 Text
 
-### What are your job roles (please tick all that apply)
+### Question:
+What are your job roles (please tick all that apply)
 
 #### Type:
 Checkboxes
@@ -115,7 +128,8 @@ List other roles
 ##### Sub-Type:
 Text
 
-### Career stage
+### Question:
+Career stage
 
 #### Hint:
 If it's not clear which stage you are in please take a look at http://www.leru.org/files/general/UK-England.pdf and (by analogy) choose the appropriate phase that matches your career stage
@@ -129,7 +143,8 @@ Dropdown
 * Phase 3 - Mid / Recognised (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer, Research Software Group Leader)
 * Phase 4 - Established / Experienced / Senior (e.g. Professor, Director of Research Computing, Distinguished Engineer, Chief Data Scientist)
 
-### What is the closest JACS 3.0 Principal subject code that classifies your research area
+### Question:
+What is the closest JACS 3.0 Principal subject code that classifies your research area
 
 #### Hint:
 Please see https://www.hesa.ac.uk/support/documentation/jacs/jacs3-principal for more details.
@@ -305,7 +320,8 @@ Dropdown
 * (X9) Others in education
 * (Y0) Combined
 
-### Which primary funding body/charity/organisation would you normally turn to if seeking financial support for your research/work
+### Question:
+Which primary funding body/charity/organisation would you normally turn to if seeking financial support for your research/work
 
 #### Type:
 Dropdown
@@ -337,7 +353,8 @@ Please add other primary funder
 ##### Sub-Type:
 Text
 
-### Any additional funders
+### Question:
+Any additional funders
 
 #### Hint:
 Please separate funders with a comma
@@ -345,7 +362,8 @@ Please separate funders with a comma
 #### Type:
 Text
 
-### From which source do you receive your primary funding related to the proposed work
+### Question:
+From which source do you receive your primary funding related to the proposed work
 
 #### Applicability:
 Open Call
@@ -385,7 +403,8 @@ Please add other primary funder
 ##### Sub-Type:
 Text
 
-### Which other sources of funding are related to the proposed work
+### Question:
+Which other sources of funding are related to the proposed work
 
 #### Applicability:
 Open Call
@@ -399,7 +418,8 @@ Optional
 #### Type:
 Paragraph Text
 
-### What software do you use most often in your work? 
+### Question:
+What software do you use most often in your work? 
 
 #### Hint:
 Please separate different software products with a comma. If one is a web browser, please indicate the sites/applications/services you use.
@@ -407,12 +427,14 @@ Please separate different software products with a comma. If one is a web browse
 #### Type:
 Paragraph Text
 
-### What problems do you see in your work where better software would help
+### Question:
+What problems do you see in your work where better software would help
 
 #### Type:
 Paragraph Text
 
-###  With regards to research software which statement best describes your situation
+###  Question:
+With regards to research software which statement best describes your situation
 
 #### Type:
 Dropdown
@@ -439,7 +461,8 @@ Please specify the relationship between software and your research/work
 ##### Sub-Type:
 Paragraph Text
 
-#### Is this your first engagement with a Software Sustainability Institute run activity
+#### Question:
+Is this your first engagement with a Software Sustainability Institute run activity
 
 #### Type:
 Dropdown
@@ -448,7 +471,8 @@ Dropdown
 * Yes
 * No
 
-### How did you first hear about the \<the event\>
+### Question:
+How did you first hear about the \<the event\>
 
 #### Answer-Choices:
 * Institute Website (www.software.ac.uk)
@@ -471,68 +495,98 @@ Please specify how you first heard about \<the event\>
 ##### Sub-Type:
 Text
 
-### Is this the first Software Sustainability Institute event you are attending
+### Question:
+Is this the first Software Sustainability Institute event you are attending
+
 #### Optionality:
 Optional
+
 #### Type:
 Dropdown
+
 #### Answer-Choices:
 * Yes
 * No
 * Maybe / Not sure
 
-### Would you like to receive the Software Sustainability Institute's weekly newsletter?
+### Question:
+Would you like to receive the Software Sustainability Institute's weekly newsletter?
+
 #### Optionality:
 Optional
+
 #### Type:
 Dropdown
+
 #### Answer-Choices:
 * Yes
 * No
 * I already receive it
 
-## More about you
+## Section:
+More about you
 
-### section hint:
+### Section-Hint:
 Please specify any additional information about you that you would like to share. Others have clicked on links if provided.
 
-### Please specify your Institutional webpage
+### Questoin:
+Please specify your Institutional webpage
+
 #### Optionality:
+
 Optional
+
 #### Type:
 Text
 
-### Please specify your ORCID
+### Question:
+Please specify your ORCID
+
 #### Hint:
 (orcid.org/about/what-is-orcid/mission)
+
 #### Optionality:
 Optional
+
 #### Type:
 Text
 
-### Please specify your blog
+### Question:
+Please specify your blog
+
 #### Optionality:
 Optional
+
 #### Type:
 Text
 
-### Please specify your Twitter handle
+### Question:
+Please specify your Twitter handle
+
 #### Optionality:
 Optional
+
 #### Type:
 Text
 
-### Please specify your LinkedIn profile page
+### Question:
+Please specify your LinkedIn profile page
+
 #### Optionality:
 Optional
+
 #### Type:
 Text
 
-### Please specify any other relevant links pertaining to you and your work
+### Question:
+Please specify any other relevant links pertaining to you and your work
+
 #### Hint:
 Please seperate links with a comma
+
 #### Optionality:
 Optional
+
 #### Type:
 Text
 

@@ -6,7 +6,8 @@ These questions are mainly about how competitive applications for things, such a
 ## Application Questions(AQ)
 Questions will appear as the heading of the section
 
-### Application Screen Cast URL
+### Question:
+Application Screen Cast URL
 
 #### Applicability:
 Fellowship programme
@@ -33,7 +34,8 @@ Mandatory (if applicable)
 #### Type:
 URL
 
-#### Example of writing
+### Question:
+Example of writing
 
 #### Applicability:
 Fellowship programme
@@ -48,7 +50,8 @@ Text
 Mandatory (if applicable)
 
 
-### Explain how software enables your research and/or what research is enabled by your software
+### Question:
+Explain how software enables your research and/or what research is enabled by your software
 
 #### Applicability: 
 Open Call
@@ -59,7 +62,8 @@ Mandatory (if applicable)
 #### Type:
 Paragraph Text
 
-### If the software you develop is available under particular license(s), what are they
+### Question:
+If the software you develop is available under particular license(s), what are they
 
 #### Applicability:
 Open Call
@@ -67,7 +71,8 @@ Open Call
 #### Type:
 Paragraph Text
 
-### Please specify any other links related to your software 
+### Question:
+Please specify any other links related to your software 
 
 #### Applicability:
 Open Call
@@ -78,7 +83,8 @@ For example, website, blog, GitHub repository, Twitter account, Facebook pages, 
 #### Type:
 Paragraph Text
 
-### Which one or two key things would you most want the Institute to help you improve
+### Question:
+Which one or two key things would you most want the Institute to help you improve
 
 #### Applicability:
 Open Call
@@ -86,7 +92,8 @@ Open Call
 #### Type:
 Paragraph Text
 
-### How would these things benefit you and/or your software or research community?
+### Question:
+How would these things benefit you and/or your software or research community?
 
 #### Applicability:
 Open Call
@@ -97,7 +104,8 @@ Where possible, specify any research groups, projects, companies or other teams 
 #### Type:
 Paragraph Text
 
-### What were the main issues identified by the Institute's Software Evaluation Questionnaire?
+### Question:
+What were the main issues identified by the Institute's Software Evaluation Questionnaire?
 
 #### Applicability:
 Open Call
@@ -108,7 +116,8 @@ Note that this is mandatory unless for some reason it does not apply to your cas
 #### Type:
 Paragraph Text
 
-### Any other information to support your application
+### Question:
+Any other information to support your application
 
 #### Applicability:
 Open Call
