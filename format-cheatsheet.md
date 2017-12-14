@@ -3,11 +3,11 @@
 ## Introduction
 This document just has the essential headings in from format.md - and minimal notes to do the sanity checking when commenting/adding to the other question files 
 
-## \<Section\>
+## Section:
 
-### section hint:
+### Section-Hint:
 
-### \<Question\>
+### Question:
 
 #### Reason:
 

@@ -26,15 +26,15 @@ The following items will on the whole be seen by those answering the survey
 * Sub-Ask-Question:
 * Sub-Type:
 
-## \<Section\>
-The heading at level 2 is a section which is meant to aggregate related questions
+## Section:
+The text under the heading at level 2 is a section name/description  which is meant to aggregate related questions
 
 ### Section-Hint:
 This contains the hint for the entire section - if the system does not support sections then you could use this information elsewhere e.g. in the invitation text to explain the survey. You may include some of the 'Reason:' section text below to explain why you are collecting certain answers.
 
 
-### \<Question\>
-The heading at level 3 contains the top level question text
+### Question:
+The text under this heading at level 3 contains the top level question text (another Question: tag or the end of file or a Section: tag delimits this question)
 
 #### Reason:
 This contains the reason for why we are collecting this information the overall intent might be covered by the names of the common-form-question files e.g. logistis, participation, application, core questions. The reasons here are more detailed and pertain to the reason you are asking this particular question in the context of the wider file intent - e.g. why we we ask people about gender in the core questions or why do we ask people about dietary preferences in the logistics questions.
