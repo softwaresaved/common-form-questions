@@ -42,7 +42,7 @@ Mandatory (if applicable)
 #### Type:
 Multiple Choice
 
-#### Options:
+#### Answer-Choices:
 * Yes
 * Maybe
 * No
@@ -65,7 +65,7 @@ Mandatory (if applicable)
 #### Type:
 Multiple Choice
 
-#### Options:
+#### Answer-Choices:
 * Yes
 * Maybe
 * No
@@ -90,7 +90,7 @@ Mandatory (if applicable)
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * 1
 * 2
 * 3
@@ -126,7 +126,7 @@ Mandatory (if applicable)
 #### Type:
 Multiple Choice
 
-#### Options:
+#### Answer-Choices:
 * \<event\> is the best event I have attended
 * \<event\> is the 2nd best event I have attended
 * \<event\> is the 3rd best event I have attended

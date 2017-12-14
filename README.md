@@ -17,6 +17,7 @@ Shoaib Sufi
 # Filenames and intent
 
 * Application Questions(AQ) - file:application-questions.md - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
+* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why'  someone answered a particular way folowup question 
 * Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics
 * Feedback Questions (FBQ) - file:feedback-questions.md - pertains to feedback/evaluation/impact etc questions after events and competitions
 * Format of Questions (FQ) - file:format.md - contains the format used in the markdown files to describe the common questions

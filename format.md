@@ -20,7 +20,7 @@ The following items will on the whole be seen by those answering the survey
 * Hint:
 * Optionality:
 * Type:
-* Options:
+* Answer-Choices:
 * sub-question-\<n\>
 * if chooses:
 * ask question:
@@ -70,7 +70,7 @@ This is the type of the response which can be from the list below. If something 
 * URL - an URL is required if the system can't check then can just use Text
 * Email - an emaill address is required if the system can't check for this then just use Text 
 
-#### Options:
+#### Answer-Choices:
 If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes, Multiple Choice) then this is a markdown list of the valid choices to answer the question
 
 #### sub-question-\<n\>

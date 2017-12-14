@@ -11,7 +11,7 @@ Questions will appear as sub headings (level 3) of this section unless they are 
 #### Note:
 \<this part of the schedule\> could be something like the Dinner at a workshop, the Hackday evening at CW or the main Hackday, any part which might be considered distinct enough to require planning around but where the intent is not clear when people are registering.
 
-#### Options:
+#### Answer-Choices:
 * Yes
 * No
 * Not sure
@@ -35,7 +35,7 @@ Text
 
 ### Are you happy with us to share your name, affiliation and email address with the other participants 
 
-#### Options:
+#### Answer-Choices:
 * Yes
 * No
 * Other
@@ -53,7 +53,7 @@ Text
 
 #### Are you happy for us to publish audio visual material of the general event that you may be present in? We will use them for publicity for future events and reporting on this event.
 
-#### Options:
+#### Answer-Choices:
 * Yes
 * No
 * Other

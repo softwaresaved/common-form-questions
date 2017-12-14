@@ -35,7 +35,7 @@ only if needed e.g. Fellowship
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * Female
 * Male
 * Other
@@ -43,7 +43,7 @@ Dropdown
 
 ### What is your ethnic group
 
-#### Options:
+#### Answer-Choices:
 * White
 * Mixed/multiple ethnic groups
 * Asian/Asian British
@@ -93,7 +93,7 @@ Text
 #### Type:
 Checkboxes
 
-#### Options:
+#### Answer-Choices:
 * Researcher
 * Developer/RSE (www.rse.ac.uk/who.html)
 * Educator
@@ -123,7 +123,7 @@ If it's not clear which stage you are in please take a look at http://www.leru.o
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * Phase 1 - Junior (e.g. PhD candidate, Junior Research Software Engineer)
 * Phase 2 - Early (e.g. Research Assistant/Associate, first grant holder, Lecturer, Research Software Engineer)
 * Phase 3 - Mid / Recognised (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer, Research Software Group Leader)
@@ -137,7 +137,7 @@ Please see https://www.hesa.ac.uk/support/documentation/jacs/jacs3-principal for
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * N/A - I do not do research
 * (A0) Broadly-based programmes within medicine & dentistry
 * (A1) Pre-clinical medicine
@@ -310,7 +310,7 @@ Dropdown
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * EPSRC (Engineering and Physical Sciences Research Council)
 * BBSRC (Biotechnology and Biological Sciences Research Council)
 * ESRC (Economic and Social Research Council)
@@ -359,7 +359,7 @@ Mandatory (if applicable)
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * EPSRC (Engineering and Physical Sciences Research Council)
 * BBSRC (Biotechnology and Biological Sciences Research Council)
 * ESRC (Economic and Social Research Council)
@@ -417,7 +417,7 @@ Paragraph Text
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * I use software to support my research/work
 * I develop software  (code, tools, scripts) that helps support research/work; In the research context I consider myself a research software engineer (http://www.rse.ac.uk/who.html)
 * I am evenly balanced between developing (research) software and using software to support my research/work
@@ -444,13 +444,13 @@ Paragraph Text
 #### Type:
 Dropdown
 
-#### Options:
+#### Answer-Choices:
 * Yes
 * No
 
 ### How did you first hear about the \<the event\>
 
-#### Options:
+#### Answer-Choices:
 * Institute Website (www.software.ac.uk)
 * Institute Newsletter
 * Institute Twitter (@SoftwareSaved)
@@ -476,7 +476,7 @@ Text
 Optional
 #### Type:
 Dropdown
-#### Options:
+#### Answer-Choices:
 * Yes
 * No
 * Maybe / Not sure
@@ -486,7 +486,7 @@ Dropdown
 Optional
 #### Type:
 Dropdown
-#### Options:
+#### Answer-Choices:
 * Yes
 * No
 * I already receive it
