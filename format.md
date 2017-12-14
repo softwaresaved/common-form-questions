@@ -12,6 +12,7 @@ The following items will on the whole inform the individual putting the survey t
 * Reason:
 * Applicability:
 * Note:
+* Ask-Why:
 
 The following items will on the whole be seen by those answering the survey
 
@@ -44,6 +45,10 @@ Specific note on when this should be used e.g. it might be more relevant for a c
 #### Note: 
 This is not something which is added to question or that normally appears on the survey but it's something that should be kept in mind when using this question
 
+#### Ask-Why:
+This is a follow up question that is added after the question (and naturally any sub-questions) more details in the file:ask-why-question.md
+*Yes
+*No
 
 #### Hint:
 This contains hint text which can be used in system that support hints/description or can be added to the question
@@ -66,7 +71,7 @@ This is the type of the response which can be from the list below. If something 
 * Email - an emaill address is required if the system can't check for this then just use Text 
 
 #### Options:
-If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes) then this is a markdown list of the valid choices to answer the question
+If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes, Multiple Choice) then this is a markdown list of the valid choices to answer the question
 
 #### sub-question-\<n\>
 This states that a sub question container is about to start and the tags below is (i.e. the consecutive level 5 headings are related to this sub-question)

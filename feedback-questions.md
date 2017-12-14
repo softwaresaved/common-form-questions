@@ -33,6 +33,9 @@ Events
 #### Note:
 Let attendees now when the next event might be run in the question or a hint e.g. 'in a year'
 
+#### Ask-Why:
+Yes
+
 #### Optionality:
 Mandatory (if applicable)
 
@@ -44,19 +47,6 @@ Multiple Choice
 * Maybe
 * No
 
-### Tell us why (optional)?
-
-#### Reason:
-For some question you want to know why they answered it in a particular way to see if you are doing something right (which needs to be kep) or something wrong (which may need rework)
-
-#### Applicability:
-Events; e.g. afte question about whether the would attend the next event in the series or recommend it to colleagues - think why it matters to know this information and if the reason is sound then add after the question you asked. Note if asking it once fulils you need think about the possible negative impact of adding too many questions on response rate.
-
-#### Optionality:
-Optional
-
-#### Type:
-Paragraph Text
 
 ### Would you recommend the \<event\> to colleagues
 
@@ -66,6 +56,9 @@ Did they like the event so much that they would recommend it to colleagues
 #### Applicability:
 Events
 
+#### Ask-Why:
+Yes
+
 #### Optionality:
 Mandatory (if applicable)
 
@@ -76,6 +69,113 @@ Multiple Choice
 * Yes
 * Maybe
 * No
+
+### How many work related events (meetings, workshops, conference etc) have you attended in the previous 12 months.
+
+#### Reason:
+This is one question needed to build a comparion between your event and others people attending have attended
+
+#### Applicability:
+Event (but see Note:)
+
+#### Note:
+This should only really be asked for substantial events (e.g. Collaborations Workshop - 3 day event multifaceted) - not for smaller events.
+
+#### Hint:
+Please exclude events you have been heavily involved with organising and running when answering this question.
+
+#### Optionality
+Mandatory (if applicable)
+
+#### Type:
+Dropdown
+
+#### Options:
+* 1
+* 2
+* 3
+* 4
+* 5
+* 6
+* 7
+* 8
+* 9
+* 10
+* more than 10
+
+### Compared to other work related events (meetings, workshops, conferences etc) you have attended in the previous 12 months which of the following statement would you agree with most?
+
+#### Reason:
+Knowing whether someone finds the event useful and/or enjoyable is a good thing - however knowing how it compares to others they have attended is a truer measure of success.
+
+#### Applicability:
+Events (but see Note:)
+
+#### Note:
+This question required the previous one to be answerd. This should only really be asked for substantial events (e.g. Collaborations Workshop - 3 day event multifaceted) - not for smaller events. You should only compare in-person events with in-person event and online with online so you may need to adjust the question accoddingly
+
+#### Ask-Why:
+Yes
+
+#### Hint:
+When we say \<event\> below we mean all or part of the \<event\>. Note please exclude events you have been heavily involved with organising and running when answering this question.
+
+#### Optionality:
+Mandatory (if applicable)
+
+#### Type:
+Multiple Choice
+
+#### Options:
+* \<event\> is the best event I have attended
+* \<event\> is the 2nd best event I have attended
+* \<event\> is the 3rd best event I have attended
+* \<event\> was average amongst events I have attended
+* \<event\> was the worst (or close to worse) event I have attended
+* N/A - e.g. was heavily involved with organising / running \<event\> or can't say
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
