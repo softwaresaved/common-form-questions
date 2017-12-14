@@ -22,14 +22,14 @@ The following items will on the whole be seen by those answering the survey
 * Type:
 * Answer-Choices:
 * sub-question-\<n\>
-* if chooses:
-* ask question:
-* sub-question type:
+* Sub-If-Chooses:
+* Sub-Ask-Question:
+* Sub-Type:
 
 ## \<Section\>
 The heading at level 2 is a section which is meant to aggregate related questions
 
-### section hint:
+### Section-Hint:
 This contains the hint for the entire section - if the system does not support sections then you could use this information elsewhere e.g. in the invitation text to explain the survey. You may include some of the 'Reason:' section text below to explain why you are collecting certain answers.
 
 
@@ -76,13 +76,13 @@ If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes
 #### sub-question-\<n\>
 This states that a sub question container is about to start and the tags below is (i.e. the consecutive level 5 headings are related to this sub-question)
 
-##### if chooses:
+##### Sub-If-Chooses:
 This contains the choice that requires a sub question e.g. 'Other' is often the choice in a Dropdown
 
-##### ask question:
+##### Sub-Ask-Question:
 This will be the text of the sub-question
 
-##### sub-question type:
+##### Sub-Type:
 The type of the sub question answer - normally 'Text' or 'Paragraph Text'
 
 

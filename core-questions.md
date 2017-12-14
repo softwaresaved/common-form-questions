@@ -104,15 +104,15 @@ Checkboxes
 * Leader
 * Other
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 List other roles
 
-##### sub-question type:
+##### Sub-Type:
 Text
 
 ### Career stage
@@ -326,15 +326,15 @@ Dropdown
 * Other
 
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 Please add other primary funder
 
-##### sub-question type:
+##### Sub-Type:
 Text
 
 ### Any additional funders
@@ -374,15 +374,15 @@ Dropdown
 * Sloan Foundation
 * Other
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 Please add other primary funder
 
-##### sub-question type:
+##### Sub-Type:
 Text
 
 ### Which other sources of funding are related to the proposed work
@@ -428,15 +428,15 @@ Dropdown
 * I am involved with (research) software management
 * Other
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 Please specify the relationship between software and your research/work
 
-##### sub-question type:
+##### Sub-Type:
 Paragraph Text
 
 #### Is this your first engagement with a Software Sustainability Institute run activity
@@ -462,13 +462,13 @@ Dropdown
 * By involvement in an Institute Open Call
 * Other
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 Please specify how you first heard about \<the event\>
 
-##### sub-question type:
+##### Sub-Type:
 Text
 
 ### Is this the first Software Sustainability Institute event you are attending

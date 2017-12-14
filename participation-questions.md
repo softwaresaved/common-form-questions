@@ -18,29 +18,29 @@ This give you 2 minutes to cover the intersection of your work and one of the th
 
 ### Would you be interested in running a 30 minute session to demonstrate a particular software product, approach, standard at \<the event\>
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Yes
 
-##### ask question:
+##### Sub-Ask-Question:
 Session Title
 
-##### sub-question type:
+##### Sub-Type:
 Text
 
 #### sub-question-2:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Yes
 
-##### ask question:
+##### Sub-Ask-Question:
 Session description
 
 ##### sub-question hint:
 We may publish this on the \<the event\> website for successfully accepted sessions, so please write this as a public description containing 200-400 words)
 
-##### sub-question type:
+##### Sub-Type:
 Paragraph Text
 
 ### Profile Photo

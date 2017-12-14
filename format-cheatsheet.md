@@ -25,11 +25,11 @@ This document just has the essential headings in from format.md - and minimal no
 
 #### Answer-Choices:
 
-#### sub-question-\<n\>
+#### Sub-Question-\<n\>
 
-##### if chooses:
+##### Sub-If-Chooses:
 
-##### ask question:
+##### Sub-Ask-Question:
 
-##### sub-question type:
+##### Sub-Type:
 

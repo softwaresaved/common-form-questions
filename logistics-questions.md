@@ -40,15 +40,15 @@ Text
 * No
 * Other
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 Please provide further details
 
-##### sub-question type:
+##### Sub-Type:
 Text
 
 #### Are you happy for us to publish audio visual material of the general event that you may be present in? We will use them for publicity for future events and reporting on this event.
@@ -58,11 +58,11 @@ Text
 * No
 * Other
 
-#### sub-question-1:
+#### Sub-Question-1:
 
-##### if chooses:
+##### Sub-If-Chooses:
 Other
 
-##### ask question:
+##### Sub-Ask-Question:
 Please provide further details
 
