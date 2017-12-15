@@ -10,11 +10,17 @@ Questions will appear as sub headings (level 3) of this section unless they are 
 ### Question:
 First Name
 
+#### Reason:
+Necessary information and useful for tracking people across interactions
+
 #### Type:
 Text
 
 ### Question:
 Surname
+
+#### Reason:
+Necessary information and useful for tracking people across interactions
 
 #### Type:
 Text
@@ -22,11 +28,17 @@ Text
 ### Question:
 Email Address
 
+#### Reason:
+Needed to keep in touch with people, can be used to verify institution and needed to add them to other resources (e.g. newsletter list)
+
 #### Type:
 Text / Email (if available)
 
 ### Question:
 Telephone
+
+#### Reason:
+Useful for emergency contact (e.g. needed it for Fellows applicants)
 
 #### Type:
 Text
@@ -36,6 +48,9 @@ only if needed e.g. Fellowship
 
 ### Question:
 Gender
+
+#### Reason:
+To track gender diversity and see if we are doing better than the average and see how this is changing over time (e.g. are we improving)
 
 #### Type:
 Dropdown
@@ -49,6 +64,9 @@ Dropdown
 ### Question:
 What is your ethnic group
 
+#### Reason:
+To track ethnic diversity and see if we are doing better than the average and see how this is changing over time (e.g. are we improving)
+
 #### Answer-Choices:
 * White
 * Mixed/multiple ethnic groups
@@ -58,11 +76,17 @@ What is your ethnic group
 ### Question:
 Home Institution
 
+#### Reason:
+To track institutional spread
+
 #### Type:
 Text
 
 ### Question:
 Department
+
+#### Reason:
+To see what type of departments representatives are applying/attending from
 
 #### Type:
 Text
@@ -70,11 +94,17 @@ Text
 ### Question:
 Group within Department
 
+#### Reason:
+Can help place a person, help people assessing or interacting with individuals
+
 #### Type:
 Text
 
 ### Question:
 What is the name of your software project
+
+#### Reason:
+This is a key piece of information needed for the open call - as this is what people are asking for support with
 
 #### Applicability
 Open Call
@@ -91,17 +121,26 @@ Text
 ### Question:
 What is your research area
 
+#### Reason:
+Self reported description of domain helps us to match people at events or for review
+
 #### Type:
 Text
 
 ### Question:
 What is your Job Title
 
+#### Reason:
+Help us to arrange discussion/review group of attendees and candidates also a way of tracking the title used for software oriented jot titles (and the adoption of 'Research Software' in titles)
+
 #### Type:
 Text
 
 ### Question:
 What are your job roles (please tick all that apply)
+
+#### Reason:
+To understand what people do, to help make name badges at events and to connect people at events with similar or complementary skills
 
 #### Type:
 Checkboxes
@@ -131,6 +170,9 @@ Text
 ### Question:
 Career stage
 
+#### Reason:
+To better understand the career stage of attendees/applicants and to connect people of similar of complementary career stages at events (e.g could be combined with research area)
+
 #### Hint:
 If it's not clear which stage you are in please take a look at http://www.leru.org/files/general/UK-England.pdf and (by analogy) choose the appropriate phase that matches your career stage
 
@@ -145,6 +187,9 @@ Dropdown
 
 ### Question:
 What is the closest JACS 3.0 Principal subject code that classifies your research area
+
+#### Reason:
+To under the area of research of those applying/attending - if they don't do research could also use their job title and other data to see if they are an RSE (www.rse.ac.uk) and useful for representation during e.g. Fellowship and for forming groups with mixed RSE/Researcher participants.
 
 #### Hint:
 Please see https://www.hesa.ac.uk/support/documentation/jacs/jacs3-principal for more details.
@@ -323,6 +368,9 @@ Dropdown
 ### Question:
 Which primary funding body/charity/organisation would you normally turn to if seeking financial support for your research/work
 
+#### Reason:
+To track the natural funder of attendees/applicants to support assertions to the funding agency of reaching out to their natural communities
+
 #### Type:
 Dropdown
 
@@ -356,6 +404,9 @@ Text
 ### Question:
 Any additional funders
 
+#### Reason:
+To understand other funders of attendees/applicants to support assertions to the funding agency of reaching out to their natural communities
+
 #### Hint:
 Please separate funders with a comma
 
@@ -364,6 +415,9 @@ Text
 
 ### Question:
 From which source do you receive your primary funding related to the proposed work
+
+#### Reason:2Y
+We need to know if the project which requires support is funded for a targetted call and to support the assertions around helping the communities of particular funding agencies.
 
 #### Applicability:
 Open Call
@@ -406,6 +460,9 @@ Text
 ### Question:
 Which other sources of funding are related to the proposed work
 
+### Reason:
+We need to know if the project which requires support is funded for a targetted call and to support the assertions around helping the communities of particular funding agencies.
+
 #### Applicability:
 Open Call
 
@@ -421,6 +478,9 @@ Paragraph Text
 ### Question:
 What software do you use most often in your work? 
 
+#### Reason:
+To understand the software packages and libraries used in computational research to help inform training, engagement and to inform the community.
+
 #### Hint:
 Please separate different software products with a comma. If one is a web browser, please indicate the sites/applications/services you use.
 
@@ -430,11 +490,17 @@ Paragraph Text
 ### Question:
 What problems do you see in your work where better software would help
 
+#### Reason:
+This is to gain insight into problems faced by the research software community; it could inform promoting existing solutions or coming together to discuss a new matter
+
 #### Type:
 Paragraph Text
 
 ###  Question:
 With regards to research software which statement best describes your situation
+
+#### Reason:
+Understanding the relationship applicants/attendees have with software helps us to choose appropriate reviewers, make better groups and understand the community
 
 #### Type:
 Dropdown
@@ -461,8 +527,11 @@ Please specify the relationship between software and your research/work
 ##### Sub-Type:
 Paragraph Text
 
-#### Question:
+### Question:
 Is this your first engagement with a Software Sustainability Institute run activity
+
+#### Reason:
+To understand the number of returning and new people who engage with us
 
 #### Type:
 Dropdown
@@ -470,9 +539,13 @@ Dropdown
 #### Answer-Choices:
 * Yes
 * No
+* Maybe / Not sure
 
 ### Question:
 How did you first hear about the \<the event\>
+
+#### Reason:
+To understand which forms of publicity reach our attendees/applicants and understand better how to balance publicity effort
 
 #### Answer-Choices:
 * Institute Website (www.software.ac.uk)
@@ -496,21 +569,10 @@ Please specify how you first heard about \<the event\>
 Text
 
 ### Question:
-Is this the first Software Sustainability Institute event you are attending
-
-#### Optionality:
-Optional
-
-#### Type:
-Dropdown
-
-#### Answer-Choices:
-* Yes
-* No
-* Maybe / Not sure
-
-### Question:
 Would you like to receive the Software Sustainability Institute's weekly newsletter?
+
+#### Reason:
+Forms are an ideal way to see if people want to be added to our newsletter
 
 #### Optionality:
 Optional
@@ -526,14 +588,16 @@ Dropdown
 ## Section:
 More about you
 
+### Section-Reason:
+All questions are related to supporting promoting, assessing,  tracking (over time) a persons professional work and activities
+
 ### Section-Hint:
 Please specify any additional information about you that you would like to share. Others have clicked on links if provided.
 
-### Questoin:
+### Question:
 Please specify your Institutional webpage
 
 #### Optionality:
-
 Optional
 
 #### Type:

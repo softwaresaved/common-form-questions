@@ -9,6 +9,7 @@ Format items will appear as sub headings (level 3) and below of this section. No
 
 The following items will on the whole inform the individual putting the survey together
 
+* Section-Reason:
 * Reason:
 * Applicability:
 * Note:
@@ -31,6 +32,9 @@ The following items will on the whole be seen by those answering the survey
 
 ## Section:
 The text under the heading at level 2 is a section name/description  which is meant to aggregate related questions
+
+### Section-Reason:
+This is used when the same reason applies to all the questions in this section (and is used to save repitition), you can use a Reason: tag for a section question to provide further reasons if needed.
 
 ### Section-Hint:
 This contains the hint for the entire section - if the system does not support sections then you could use this information elsewhere e.g. in the invitation text to explain the survey. You may include some of the 'Reason:' section text below to explain why you are collecting certain answers.
