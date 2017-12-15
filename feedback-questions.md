@@ -6,9 +6,11 @@ These questions are mainly pertaining to feedback from running events or competi
 ## The Feedback Questions
 Questions will appear as sub headings (level 3) of this section unless they are a sub question (level 4) or sections (level 2)
 
-## Your experience of the \<event\>
+## Section:
+Your experience of the \<event\>
 
-### How would you describe \<the event\> to someone else
+### Question:
+How would you describe \<the event\> to someone else
 
 #### Reason:
 To collect information to help promote future events of this type and check whether those attending see the event in a broadly compatible way with the goals you originally set.
@@ -22,7 +24,8 @@ Optional
 #### Type:
 Paragraph Text
 
-### Would you attend the next \<event\>
+### Question:
+Would you attend the next \<event\>
 
 #### Reason:
 Did they like the event so much that they would like to attend the next iteration of the event
@@ -47,8 +50,8 @@ Multiple Choice
 * Maybe
 * No
 
-
-### Would you recommend the \<event\> to colleagues
+### Question:
+Would you recommend the \<event\> to colleagues
 
 #### Reason:
 Did they like the event so much that they would recommend it to colleagues
@@ -70,7 +73,8 @@ Multiple Choice
 * Maybe
 * No
 
-### How many work related events (meetings, workshops, conference etc) have you attended in the previous 12 months.
+### Question:
+How many work related events (meetings, workshops, conference etc) have you attended in the previous 12 months.
 
 #### Reason:
 This is one question needed to build a comparion between your event and others people attending have attended
@@ -103,7 +107,8 @@ Dropdown
 * 10
 * more than 10
 
-### Compared to other work related events (meetings, workshops, conferences etc) you have attended in the previous 12 months which of the following statement would you agree with most?
+### Question:
+Compared to other work related events (meetings, workshops, conferences etc) you have attended in the previous 12 months which of the following statement would you agree with most?
 
 #### Reason:
 Knowing whether someone finds the event useful and/or enjoyable is a good thing - however knowing how it compares to others they have attended is a truer measure of success.

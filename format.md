@@ -16,14 +16,17 @@ The following items will on the whole inform the individual putting the survey t
 
 The following items will on the whole be seen by those answering the survey
 
-* \<Question\>
+* Section
+* Section-Hint
+* Question
 * Hint:
 * Optionality:
 * Type:
 * Answer-Choices:
-* sub-question-\<n\>
+* Sub-Question-\<n\>
 * Sub-If-Chooses:
 * Sub-Ask-Question:
+* Sub-Hint:
 * Sub-Type:
 
 ## Section:
@@ -73,7 +76,7 @@ This is the type of the response which can be from the list below. If something 
 #### Answer-Choices:
 If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes, Multiple Choice) then this is a markdown list of the valid choices to answer the question
 
-#### sub-question-\<n\>
+#### Sub-Question-\<n\>
 This states that a sub question container is about to start and the tags below is (i.e. the consecutive level 5 headings are related to this sub-question)
 
 ##### Sub-If-Chooses:
@@ -81,6 +84,9 @@ This contains the choice that requires a sub question e.g. 'Other' is often the 
 
 ##### Sub-Ask-Question:
 This will be the text of the sub-question
+
+##### Sub-Hint:
+Hint text for the sub question
 
 ##### Sub-Type:
 The type of the sub question answer - normally 'Text' or 'Paragraph Text'
