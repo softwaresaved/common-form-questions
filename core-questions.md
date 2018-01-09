@@ -416,7 +416,7 @@ Text
 ### Question:
 From which source do you receive your primary funding related to the proposed work
 
-#### Reason:2Y
+#### Reason:
 We need to know if the project which requires support is funded for a targetted call and to support the assertions around helping the communities of particular funding agencies.
 
 #### Applicability:
