@@ -1,5 +1,5 @@
-# common-form-questions
-Through events, fellowship and other SSI activities, it's clear that consistency in how we ask questions and the data we collect will allow us to do better analysis to understand our activities and participants.
+# Common Form Questions (CFQ)
+Through events, fellowship and other Software Sustainability Institute activities, it's clear that consistency in how we ask questions and the data we collect will allow us to do better analysis to understand our activities and participants.
 
 This project covers the common questions we ask (and most of them have reasons and when they are applicable)
 
