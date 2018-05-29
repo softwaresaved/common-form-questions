@@ -51,7 +51,19 @@ Mandatory (if applicable)
 
 
 ### Question:
-Explain how software enables your research and/or what research is enabled by your software
+Has you software contributed to research that has been published (please specify examples) 
+
+#### Applicability: 
+Open Call
+
+#### Optionality:
+Mandatory (if applicable)
+
+#### Type:
+Paragraph Text
+
+### Question:
+Have you ever presented your software work at a conference or workshop
 
 #### Applicability: 
 Open Call

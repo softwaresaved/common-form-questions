@@ -497,7 +497,7 @@ This is to gain insight into problems faced by the research software community; 
 Paragraph Text
 
 ###  Question:
-With regards to research software which statement best describes your situation
+With regards to research software, I am mainly a 
 
 #### Reason:
 Understanding the relationship applicants/attendees have with software helps us to choose appropriate reviewers, make better groups and understand the community
@@ -506,14 +506,11 @@ Understanding the relationship applicants/attendees have with software helps us 
 Dropdown
 
 #### Answer-Choices:
-* I use software to support my research/work
-* I develop software  (code, tools, scripts) that helps support research/work; In the research context I consider myself a research software engineer (http://www.rse.ac.uk/who.html)
-* I am evenly balanced between developing (research) software and using software to support my research/work
-* I spend some time developing (research) software but predominantly do software enabled research/work
-* I spend some time doing research but predominantly develop software to support research/work
-* I advocate for software best practice in my domain
-* I lead a project or organisation that makes heavy use of software for research
-* I am involved with (research) software management
+* User
+* Developer
+* Leader
+* Manager
+* User & Developer
 * Other
 
 #### Sub-Question-1:
@@ -522,7 +519,7 @@ Dropdown
 Other
 
 ##### Sub-Ask-Question:
-Please specify the relationship between software and your research/work
+Please specify your relationship with research software
 
 ##### Sub-Type:
 Paragraph Text
