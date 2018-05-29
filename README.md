@@ -1,11 +1,35 @@
 # Common Form Questions (CFQ)
-Through events, fellowship and other Software Sustainability Institute activities, it's clear that consistency in how we ask questions and the data we collect will allow us to do better analysis to understand our activities and participants.
-
-This project covers the common questions we ask (and most of them have reasons and when they are applicable)
-
 
 # Project Lead
 Shoaib Sufi
+
+# Purpose 
+The Software Sustainability Institute runs many activities (e.g. Fellowship, Open Call, Workshops) that require asking questions about participants and collecting data. A consistency of approach in asking and collecting data will allow us to do better analysis in and across our activities making data collection more useful and analysis (more) comparable.
+
+The CFQ documents the common questions we ask, reasons we collect them and applicability.
+
+# How we decide what to collect
+
+There are many reasons to ask questions and collect data for activities, some of these are 'good' reasons and some less so.
+
+Good reasons to collect data:
+1. For our funders and supporters (demographic data around diversity, domain, career stage, funders and geographic areacome into this category)
+2. To help us run activities effectively (participation and logistical questions come into this category)  
+3. To collect information to change our behavior (e.g. to find our where gaps might be in supporting research software or topics for a future workshop)
+
+Bad ideas to collect data:
+1. 'Just in case' data collection; one should have a clear understanding as to why one is collecting the data
+
+# things to keep in mind
+
+## Data Protection
+
+In UK and the EU General Data Protection Regulation (GDPR) regulates organisations who collect, process and store personal data. In any case it is important to abide by any regulations around privacy you are bound by. For more information please see https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/. An additional thing to remember is that you should not be storing the data indefinitely and local retention schedules apply - please contact your organisational data protection officers for further information.
+
+## Use of Data for Research
+
+If you are collecting data to report back to funders, helping you run an event, or write a blog post with summary data then you will normally not need ethics approval from your institution/organisation. However if you intend to use the data for reserch purposes you will likely need to go through any local ethical approval routes such that you can report your findings in a way that is acceptable to publications and your organisation.
+ 
 
 # Change process
 
@@ -17,7 +41,7 @@ Shoaib Sufi
 # Filenames and intent
 
 * Application Questions(AQ) - file:application-questions.md - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
-* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why'  someone answered a particular way folowup question 
+* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why'  someone answered a particular way followup question 
 * Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics
 * Feedback Questions (FBQ) - file:feedback-questions.md - pertains to feedback/evaluation/impact etc questions after events and competitions
 * Format of Questions (FQ) - file:format.md - contains the format used in the markdown files to describe the common questions
