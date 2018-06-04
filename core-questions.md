@@ -476,10 +476,74 @@ Optional
 Paragraph Text
 
 ### Question:
-What software do you use most often in your work? 
+What Operating System do you prefer to use at work
 
 #### Reason:
-To understand the software packages and libraries used in computational research to help inform training, engagement and to inform the community.
+To understand the infrastructure and environment people use to better inform training and engagement.
+
+#### Type:
+Dropdown
+
+#### Answer-Choices:
+* Windows
+* macOS
+* Linux
+* Other
+
+##### Sub-Ask-Question:
+If Other, please specifiy
+
+##### Sub-Type:
+Text
+
+#### Type:
+Checkboxes
+
+### Question:
+What programming languages do you use at work (select as many as apply)
+
+#### Reason:
+To understand the infrastructure and environment people use to better inform training and engagement.
+
+#### Note:
+The choices are taken from https://www.tiobe.com/tiobe-index/ [accessed 4 June 2018 - https://www.dropbox.com/s/8g71wvnecvg9hb6/Screenshot%202018-06-04%2015.32.52.png?dl=0] we have added Fortran, Unix Shell, STATA, SPSS and Julia to the list due to knowledge of their use in research computing. We then sort the list alphabetically  
+
+#### Type:
+Checkboxes
+
+#### Answer-Choices:
+* Assembly language
+* C   
+* C#  
+* C++ 
+* Delphi/Object Pascal
+* Fortran
+* Go  
+* Java
+* JavaScript
+* Julia
+* MATLAB
+* Objective-C
+* PHP 
+* Perl
+* Python
+* R   
+* Ruby
+* SPSS
+* SQL 
+* STATA
+* Scala
+* Swift
+* Unix Shell
+* Visual Basic
+* Visual Basic .NET
+
+
+### Question:
+What software packages and libraries do you use for your work
+
+#### Reason:
+To understand the infrastructure and environment people use to better inform training and engagement.
 
 #### Hint:
 Please separate different software products with a comma. If one is a web browser, please indicate the sites/applications/services you use.
@@ -487,11 +551,13 @@ Please separate different software products with a comma. If one is a web browse
 #### Type:
 Paragraph Text
 
+
+
 ### Question:
 What problems do you see in your work where better software would help
 
 #### Reason:
-This is to gain insight into problems faced by the research software community; it could inform promoting existing solutions or coming together to discuss a new matter
+This is to gain insight into problems faced by the research software community; it could inform promoting existing solutions or coming together to discuss a new matter. Note if you would like to produce research based on the output of this question then ethical approval should be sought.
 
 #### Type:
 Paragraph Text
