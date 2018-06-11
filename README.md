@@ -13,7 +13,7 @@ The CFQ documents the common questions we ask, reasons we collect them and appli
 There are many reasons to ask questions and collect data for activities, some of these are 'good' reasons and some less so.
 
 Good reasons to collect data:
-1. For our funders and supporters (demographic data around diversity, domain, career stage, funders and geographic areacome into this category)
+1. For our funders and supporters (demographic data around diversity, domain, career stage, funders and geographic area come into this category)
 2. To help us run activities effectively (participation and logistical questions come into this category)  
 3. To collect information to change our behavior (e.g. to find our where gaps might be in supporting research software or topics for a future workshop)
 
@@ -40,11 +40,15 @@ If you are collecting data to report back to funders, helping you run an event, 
 
 ## Filenames and intent
 
+### Questions asked in a form
+* Demographics, Personal Information and Engagement Questions(DPIEQ) - file:demographics-personal-and-engagement.questions.md - demographics, personal information and engagement questions
+* Software and Skills Questions (SSQ) - file:software-and-skills-questions.md - software and skills questions
 * Application Questions(AQ) - file:application-questions.md - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
-* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why'  someone answered a particular way followup question 
-* Core Questions(CQ) - file:core-questions.md - mainly pertaining to demographics
+* Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
+* Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access.
 * Feedback Questions (FBQ) - file:feedback-questions.md - pertains to feedback/evaluation/impact etc questions after events and competitions
+* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why'  someone answered a particular way followup question 
+
+### Files pertaining to format etc of the CFQ
 * Format of Questions (FQ) - file:format.md - contains the format used in the markdown files to describe the common questions
 * Formt of Questions Cheatsheet (FQCC) - file:format-cheatsheet.md - contains essential headings from the file:format.md 
-* Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access.
-* Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
