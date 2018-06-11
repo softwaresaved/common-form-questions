@@ -24,7 +24,8 @@ The following items will on the whole be seen by those answering the survey
 * Optionality:
 * Type:
 * Answer-Choices:
-* Sub-Question-\<n\>
+* Answer-Choices-\<n\>:
+* Sub-Question-\<n\>:
 * Sub-If-Chooses:
 * Sub-Ask-Question:
 * Sub-Hint:
@@ -54,8 +55,8 @@ This is not something which is added to question or that normally appears on the
 
 #### Ask-Why:
 This is a follow up question that is added after the question (and naturally any sub-questions) more details in the file:ask-why-question.md
-*Yes
-*No
+* Yes
+* No
 
 #### Hint:
 This contains hint text which can be used in system that support hints/description or can be added to the question
@@ -79,6 +80,12 @@ This is the type of the response which can be from the list below. If something 
 
 #### Answer-Choices:
 If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes, Multiple Choice) then this is a markdown list of the valid choices to answer the question
+
+#### Answer-Choices-\<n\>:
+If the Type: is something from a fixed set of options (e.g. Dropdown, Checkboxes, Multiple Choice) then this is a markdown list of the valid choices to answer the question. 
+Note this is an alternative to Answer-Choices e.g. Answer-Choices-1. This is only specified if there is an alternative set of answers which are more relevant for a particular reason.
+An example of this might be ethnicity choices in a survey meant for a different country (where the UK choices might not make sense). In an actual form/survey it is envisaged that only one set of
+answer choices would ever be chosen.
 
 #### Sub-Question-\<n\>
 This states that a sub question container is about to start and the tags below is (i.e. the consecutive level 5 headings are related to this sub-question)
