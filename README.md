@@ -47,8 +47,10 @@ If you are collecting data to report back to funders, helping you run an event, 
 * Participation Questions(EPQ) - file:participation-questions.md -  information gathering that drive the content of events
 * Logistics Questions(ELQ) - file:logistics-questions.md - information gathered to help organise logistics of e.g. place, food and access.
 * Feedback Questions (FBQ) - file:feedback-questions.md - pertains to feedback/evaluation/impact etc questions after events and competitions
-* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why'  someone answered a particular way followup question 
 
-### Files pertaining to format etc of the CFQ
+### Questions set by a flag in the CFQ format
+* Ask Why Question (AWQ) - file:ask-why-question.md - the standard asking 'why' someone answered a particular way, followup question  
+
+### Files pertaining to format of the CFQ
 * Format of Questions (FQ) - file:format.md - contains the format used in the markdown files to describe the common questions
 * Formt of Questions Cheatsheet (FQCC) - file:format-cheatsheet.md - contains essential headings from the file:format.md 
