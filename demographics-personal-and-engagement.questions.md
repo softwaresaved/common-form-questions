@@ -1,4 +1,4 @@
-# Demographics, Personal Information and Engagement Ques:wq!tions(DPIEQ)
+# Demographics, Personal Information and Engagement Questions(DPIEQ)
 
 ## Introduction
 These questions are mainly on understanding the demographics, relevant personal information and engagement with the Institute.
