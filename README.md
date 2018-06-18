@@ -54,3 +54,9 @@ If you are collecting data to report back to funders, helping you run an event, 
 ### Files pertaining to format of the CFQ
 * Format of Questions (FQ) - file:format.md - contains the format used in the markdown files to describe the common questions
 * Formt of Questions Cheatsheet (FQCC) - file:format-cheatsheet.md - contains essential headings from the file:format.md 
+
+## Aside: link pertaining to form design best practice
+Form design, i.e. how to present the questions and the flow of questions etc to users is out of scope for CFQ. However we are providing some links (which we will occasionally update) around form design which maybe of use to the users of the CFQ when they construct their survey/questionnairie/forms. If you have any further suggestions please contact the Project Lead or follow the Change process.
+
+* Simple but Crucial User Interfaces in the World Wide Web: Introducing 20 Guidelines for Usable Web Form Design - https://www.intechopen.com/books/user-interfaces/simple-but-crucial-user-interfaces-in-the-world-wide-web-introducing-20-guidelines-for-usable-web-fo
+* Designing usable web forms: empirical evaluation of web form improvement guidelines - https://dl.acm.org/citation.cfm?doid=2556288.2557265
