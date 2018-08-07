@@ -82,7 +82,7 @@ We are now using a more extended set as found in the UK census.
 * Mixed / Multiple Ethnic groups: White and Black Caribbean
 * Mixed / Multiple Ethnic groups: White and Black African
 * Mixed / Multiple Ethnic groups: White and Asian
-* Mixed / Multiple Ethnic groups: Any other Mixed / Multiple ethnic background,
+* Mixed / Multiple Ethnic groups: Any other Mixed / Multiple ethnic background
 * Asian / Asian British: Indian
 * Asian / Asian British: Pakistani
 * Asian / Asian British: Bangladeshi
