@@ -229,9 +229,9 @@ Dropdown
 * (C7) Molecular biology, biophysics & biochemistry
 * (C8) Psychology
 * (C9) Others in Biological Sciences
+* (D0) Broadly-based programmes within agriculture & related subjects
 * (D1) Pre-clinical veterinary medicine
 * (D2) Clinical veterinary medicine & dentistry
-* (D0) Broadly-based programmes within agriculture & related subjects
 * (D3) Animal science
 * (D4) Agriculture
 * (D5) Forestry & arboriculture
