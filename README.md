@@ -28,7 +28,7 @@ In UK and the EU General Data Protection Regulation (GDPR) regulates organisatio
 
 ### Use of Data for Research
 
-If you are collecting data to report back to funders, helping you run an event, or write a blog post with summary data then you will normally not need ethics approval from your institution/organisation. However if you intend to use the data for reserch purposes you will likely need to go through any local ethical approval routes such that you can report your findings in a way that is acceptable to publications and your organisation.
+If you are collecting data to report back to funders, helping you run an event, or write a blog post with summary data then you will normally not need ethics approval from your institution/organisation. However, if you intend to use the data for reserch purposes you will likely need to go through any local ethical approval routes such that you can report your findings in a way that is acceptable to publications and your organisation.
  
 
 ## Change process
