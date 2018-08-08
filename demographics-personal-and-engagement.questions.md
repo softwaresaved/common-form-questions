@@ -67,14 +67,15 @@ Dropdown
 * Rather not say
 
 ##### Sub-Ask-Question:
-```
 If Other, please specifiy
-```
+
 ##### Sub-Type:
 Text
 
 ### Question:
+```
 What is your ethnic group
+```
 
 #### Reason:
 To track ethnic diversity and see if we are doing better than the average and see how this is changing over time (e.g. are we improving)
