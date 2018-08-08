@@ -8,19 +8,27 @@ Questions will appear as the heading of the section
 
 
 ### Question:
+```
 What do you hope to learn and/or gain by attending \<the event\>
+```
 
 ### Question:
+```
 What topic(s) would you like discussed at the \<the event\>
+```
 
 ### Question:
+```
 Would you be willing to present a lightning talk at \<the event\>
+```
 
 #### Hint:
 This give you 2 minutes to cover the intersection of your work and one of the themes
 
 ### Question:
+```
 Would you be interested in running a 30 minute session to demonstrate a particular software product, approach, standard at \<the event\>
+```
 
 #### Sub-Question-1:
 
@@ -48,7 +56,9 @@ We may publish this on the \<the event\> website for successfully accepted sessi
 Paragraph Text
 
 ### Question:
+```
 Profile Photo
+```
 
 #### Reason:
 To track who candidates are during selection (esp for the judges as can be hard to track 20-30 people in a selection meeting). Also for events it can help with putting names to faces and make it easier to allow follow up after e.g. talks.
@@ -67,3 +77,4 @@ Optional
 
 #### Type:
 URL
+
