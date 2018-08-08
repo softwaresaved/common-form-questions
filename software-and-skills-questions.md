@@ -8,7 +8,9 @@ Questions will appear as sub headings (level 3) of this section unless they are 
 
 
 ### Question:
+```
 What is the name of your software project
+```
 
 #### Reason:
 This is a key piece of information needed for the open call - as this is what people are asking for support with
@@ -26,7 +28,9 @@ Mandatory (if applicable)
 Text
 
 ### Question:
+```
 What Operating System do you prefer to use at work
+```
 
 #### Reason:
 To understand the infrastructure and environment people use to better inform training and engagement.
@@ -50,7 +54,9 @@ Text
 Checkboxes
 
 ### Question:
+```
 What programming languages do you use at work (select as many as apply)
+```
 
 #### Reason:
 To understand the infrastructure and environment people use to better inform training and engagement.
@@ -90,7 +96,9 @@ Checkboxes
 
 
 ### Question:
+```
 What software packages and libraries do you use for your work
+```
 
 #### Reason:
 To understand the infrastructure and environment people use to better inform training and engagement.
@@ -103,7 +111,9 @@ Paragraph Text
 
 
 ### Question:
+```
 What problems do you see in your work where better software would help
+```
 
 #### Reason:
 This is to gain insight into problems faced by the research software community; it could inform promoting existing solutions or coming together to discuss a new matter. Note if you would like to produce research based on the output of this question then ethical approval should be sought.
@@ -112,7 +122,9 @@ This is to gain insight into problems faced by the research software community; 
 Paragraph Text
 
 ###  Question:
+```
 With regards to research software, I am mainly a 
+```
 
 #### Reason:
 Understanding the relationship applicants/attendees have with software helps us to choose appropriate reviewers, make better groups and understand the community
@@ -140,18 +152,13 @@ Please specify your relationship with research software
 Paragraph Text
 
 ### Question:
+```
 What three skills would you like to acquire or improve to help your work (the skills can be technical or non-technical).
+```
 
 #### Reason:
 To understand the personal development objectives of those we interact with to see how we can better serve them with training and resources. Changes over time are a good proxy for which skills are seen as indemand or needed.
 
 #### Type:
 Paragraph Text
-
-
-
-
-
-
-
 
