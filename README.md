@@ -49,7 +49,7 @@ If you are collecting data to report back to funders, helping you run an event, 
 * Feedback Questions (FBQ) - [feedback-questions.md](feedback-questions.md) - pertains to feedback/evaluation/impact etc questions after events and competitions
 
 ### Questions set by a flag in the CFQ format
-* Ask Why Question (AWQ) - [ask-why-question.md](ask-why-question.md) - the standard asking 'why' someone answered a particular way, followup question  
+* Ask Why Question (AWQ) - [ask-why-question.md](ask-why-question.md) - the standard asking 'why' someone answered a particular way in a followup question  
 
 ### Files pertaining to format of the CFQ
 * Format of Questions (FQ) - [format.md](format.md) - contains the format used in the markdown files to describe the common questions
