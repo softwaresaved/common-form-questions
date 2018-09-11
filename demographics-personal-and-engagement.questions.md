@@ -34,6 +34,9 @@ Email Address
 #### Reason:
 Needed to keep in touch with people, can be used to verify institution and needed to add them to other resources (e.g. newsletter list)
 
+#### Note:
+If GDPR (https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) is a relevant concern, then explicit consent has to be collected for each resource Email addresses are to be added to otherwise this counts as a violation.
+
 #### Type:
 Text / Email (if available)
 
