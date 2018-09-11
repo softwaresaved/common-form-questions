@@ -40,7 +40,7 @@ If you are collecting data to report back to funders, helping you run an event, 
 
 ## Filenames and intent
 
-### Questions asked in a form
+### Categorised questions commonly asked in forms
 * Personal Information Questions(PIQ) - [personal-information-questions.md](questions/personal-information-questions.md) - personal information questions
 * Demographic Questions (DQ) - [demographic-questions.md](questions/demographic-questions.md) - demographich questions
 * Engagement Questions (EQ) - [engagement-questions.md](questions/engagement-questions.md) - engagement questions
