@@ -35,7 +35,7 @@ Email Address
 Needed to keep in touch with people, can be used to verify institution and needed to add them to other resources (e.g. newsletter list)
 
 #### Note:
-If GDPR (https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) is a relevant concern, then explicit consent has to be collected for each resource Email addresses are to be added to otherwise this counts as a violation.
+If GDPR (https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) is a relevant concern, then explicit consent has to be collected for each resource email addresses are to be added to otherwise this counts as a violation. Thus if you were wanting to add an email address to a newsletter then it would be necessary to ask, e.g. see question below - 'Would you like to receive the Software Sustainability Institute's weekly newsletter?' 
 
 #### Type:
 Text / Email (if available)
