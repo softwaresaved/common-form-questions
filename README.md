@@ -42,18 +42,18 @@ If you are collecting data to report back to funders, helping you run an event, 
 
 ### Questions asked in a form
 * Demographics, Personal Information and Engagement Questions(DPIEQ) - [demographics-personal-and-engagement.questions.md](questions/demographics-personal-and-engagement.questions.md) - demographics, personal information and engagement questions
-* Software and Skills Questions (SSQ) - [software-and-skills-questions.md](software-and-skills-questions.md) - software and skills questions
-* Application Questions(AQ) - [application-questions.md](application-questions.md) - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
-* Participation Questions(EPQ) - [participation-questions.md](participation-questions.md) -  information gathering that drive the content of events
-* Logistics Questions(ELQ) - [logistics-questions.md](logistics-questions.md) - information gathered to help organise logistics of e.g. place, food and access.
-* Feedback Questions (FBQ) - [feedback-questions.md](feedback-questions.md) - pertains to feedback/evaluation/impact etc questions after events and competitions
+* Software and Skills Questions (SSQ) - [software-and-skills-questions.md](questions/software-and-skills-questions.md) - software and skills questions
+* Application Questions(AQ) - [application-questions.md](questions/application-questions.md) - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
+* Participation Questions(EPQ) - [participation-questions.md](questions/participation-questions.md) -  information gathering that drive the content of events
+* Logistics Questions(ELQ) - [logistics-questions.md](questions/logistics-questions.md) - information gathered to help organise logistics of e.g. place, food and access.
+* Feedback Questions (FBQ) - [feedback-questions.md](questions/feedback-questions.md) - pertains to feedback/evaluation/impact etc questions after events and competitions
 
 ### Questions set by a flag in the CFQ format
-* Ask Why Question (AWQ) - [ask-why-question.md](ask-why-question.md) - the standard asking 'why' someone answered a particular way in a followup question  
+* Ask Why Question (AWQ) - [ask-why-question.md](questions/ask-why-question.md) - the standard asking 'why' someone answered a particular way in a followup question  
 
 ### Files pertaining to format of the CFQ
-* Format of Questions (FQ) - [format.md](format.md) - contains the format used in the markdown files to describe the common questions
-* Format of Questions Cheatsheet (FQCC) - [format-cheatsheet.md](format-cheatsheet.md) - contains essential headings from [format.md](format.md) 
+* Format of Questions (FQ) - [format.md](docs/format.md) - contains the format used in the markdown files to describe the common questions
+* Format of Questions Cheatsheet (FQCC) - [format-cheatsheet.md](docs/format-cheatsheet.md) - contains essential headings from [format.md](format.md) 
 
 ## Aside: link pertaining to form design best practice
 Form design, i.e. how to present the questions and the flow of questions etc to users is out of scope for CFQ. However we are providing some links (which we will occasionally update) around form design which maybe of use to the users of the CFQ when they construct their survey/questionnairie/forms. If you have any further suggestions please contact the Project Lead or follow the Change process.
