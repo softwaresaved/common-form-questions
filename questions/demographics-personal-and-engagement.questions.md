@@ -105,7 +105,7 @@ What is your ethnic group
 
 #### Reason:
 To track ethnic diversity and see if we are doing better than the average and see how this is changing over time (e.g. are we improving)
-We are now using a more extended set as found in the UK census.
+We are now using a more extended set as found in the UK census 2011 (question 16 of https://census.ukdataservice.ac.uk/media/50966/2011_england_household.pdf). Note alternative Answer-Choices might be relevant depending on the location or context of the event.
 
 #### Answer-Choices:
 * White: English / Welsh / Scottish / Northern Irish / British
