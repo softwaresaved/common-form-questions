@@ -55,26 +55,5 @@ We may publish this on the \<the event\> website for successfully accepted sessi
 ##### Sub-Type:
 Paragraph Text
 
-### Question:
-```
-Profile Photo
-```
 
-#### Reason:
-To track who candidates are during selection (esp for the judges as can be hard to track 20-30 people in a selection meeting). Also for events it can help with putting names to faces and make it easier to allow follow up after e.g. talks.
-
-#### Applicability:
-Collaborations Workshop, Fellowship, other events
-
-#### Note:
-For Fellowship you might want to add this to the hint -  Not providing a photo at this point will not impact your participation, but it will make it easier for judges to track who you are during selection. We will not publicly publish these photo unless you are successfully selected and accept being an Institute Fellow. The photo can be replaced, anytime, if the candidate is successful.
-
-#### Hint:
-Please provide a URL to a professionally oriented (i.e. work related) main picture of yourself that you are happy to be published on the web - this should be 300px wide and 400px high (exact please).
-
-#### Optionality:
-Optional
-
-#### Type:
-URL
 
