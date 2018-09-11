@@ -41,7 +41,7 @@ If you are collecting data to report back to funders, helping you run an event, 
 ## Filenames and intent
 
 ### Questions asked in a form
-* Demographics, Personal Information and Engagement Questions(DPIEQ) - [demographics-personal-and-engagement.questions.md](demographics-personal-and-engagement.questions.md) - demographics, personal information and engagement questions
+* Demographics, Personal Information and Engagement Questions(DPIEQ) - [demographics-personal-and-engagement.questions.md](questions/demographics-personal-and-engagement.questions.md) - demographics, personal information and engagement questions
 * Software and Skills Questions (SSQ) - [software-and-skills-questions.md](software-and-skills-questions.md) - software and skills questions
 * Application Questions(AQ) - [application-questions.md](application-questions.md) - information for collecting applications for competitive activities e.g. Fellows, Open Call etc
 * Participation Questions(EPQ) - [participation-questions.md](participation-questions.md) -  information gathering that drive the content of events
