@@ -7,6 +7,8 @@ This document just has the essential headings in from format.md - and minimal no
 
 ### Section-Reason:
 
+### Section-Note:
+
 ### Section-Hint:
 
 ### Question:
