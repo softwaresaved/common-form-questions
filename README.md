@@ -54,8 +54,12 @@ If you are collecting data to report back to funders, helping you run an event, 
 * Ask Why Question (AWQ) - [ask-why-question.md](questions/ask-why-question.md) - the standard asking 'why' someone answered a particular way in a followup question  
 
 ### Files pertaining to format of the CFQ
-* Format of Questions (FQ) - [format.md](docs/format.md) - contains the format used in the markdown files to describe the common questions
-* Format of Questions Cheatsheet (FQCC) - [format-cheatsheet.md](docs/format-cheatsheet.md) - contains essential headings from [format.md](format.md) 
+* Format of Questions (FQ) - [format.md](docs/format/format.md) - contains the format used in the markdown files to describe the common questions
+* Format of Questions Cheatsheet (FQCC) - [format-cheatsheet.md](docs/format/format-cheatsheet.md) - contains essential headings from [format.md](format.md) 
+
+### Usage of CFQ
+Follow this flowchart to help you use the CFQ when constructing a questionnaire:
+![CFQ FLOWCHART](docs/diagrams/CFQ-Flowchart.svg "CFQ Flowchart")
 
 ## Aside: link pertaining to form design best practice
 Form design, i.e. how to present the questions and the flow of questions etc to users is out of scope for CFQ. However we are providing some links (which we will occasionally update) around form design which maybe of use to the users of the CFQ when they construct their survey/questionnairie/forms. If you have any further suggestions please contact the Project Lead or follow the Change process.
