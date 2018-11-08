@@ -16,7 +16,7 @@ Fellowship programme
 
 #### Hint:
 
-Your main application is a voice over slide presentation screencast and reviewers will base the bulk of their decision on it. You will be measured on presentation style, content and your plans. Keeping to time is very important (you have 6 minutes only, if your screencast is any longer it will be trimmed to 6 minutes before sending to reviewers). 
+Your main application is a voiceover of a slide presentation screencast and reviewers will base the bulk of their decision on it. You will be measured on presentation style, content and your plans. Keeping to time is very important (you have 6 minutes only, if your screencast is any longer it will be trimmed to 6 minutes before sending to reviewers). 
 
 Below is a suggested format (although you may decide to spend more time on any section).
  
