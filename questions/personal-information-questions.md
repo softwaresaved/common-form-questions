@@ -205,7 +205,7 @@ Text
 Please specify any other relevant links pertaining to you and your work
 ```
 #### Hint:
-Please seperate links with a comma
+Please separate links with a comma
 
 #### Optionality:
 Optional
