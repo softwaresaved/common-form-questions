@@ -622,26 +622,92 @@ Mandatory
 #### Type:
 Text
 
+### Question:
+```
+Profile Photo
+```
 
+#### Hint:
+Not providing a photo at this point will not impact your participation, but it will make it easier for judges to track who you are during selection. We will not publicly publish these photo unless you are successfully selected and accept being an Institute Fellow. The photo can be replaced, anytime, if the candidate is successful.
 
+Please provide a URL to a professionally oriented (i.e. work related) main picture of yourself that you are happy to be published on the web - this should be 300px wide and 400px high (exact please).
 
+#### Optionality:
+Optional
 
+#### Type:
+URL
 
+## Section:
+```
+More about you (optional section)
+```
 
+### Section-Hint:
+Please specify any additional information that you think would help your application. Not providing additional information at this point will not impact your application. In the past, most reviewers have clicked on links if provided.
 
+### Question:
+```
+Please specify your Institutional webpage
+```
+#### Optionality:
+Optional
 
+#### Type:
+Text
 
+### Question:
+```
+Please specify your ORCID
+```
+#### Hint:
+http://orcid.org/about/what-is-orcid/mission
 
+#### Optionality:
+Optional
 
+#### Type:
+Text
 
+### Question:
+```
+Please specify your blog
+```
+#### Optionality:
+Optional
 
+#### Type:
+Text
 
+### Question:
+```
+Please specify your Twitter handle
+```
+#### Optionality:
+Optional
 
+#### Type:
+Text
 
+### Question:
+```
+Please specify your LinkedIn profile page
+```
+#### Optionality:
+Optional
 
+#### Type:
+Text
 
+### Question:
+```
+Please specify any other relevant links pertaining to you and your work
+```
+#### Hint:
+Please separate links with a comma
 
+#### Optionality:
+Optional
 
-
-
-
+#### Type:
+Text

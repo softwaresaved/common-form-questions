@@ -162,7 +162,7 @@ Text
 Please specify your ORCID
 ```
 #### Hint:
-(orcid.org/about/what-is-orcid/mission)
+http://orcid.org/about/what-is-orcid/mission
 
 #### Optionality:
 Optional
