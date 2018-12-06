@@ -1,7 +1,7 @@
 # Application Questions
 
 ## Introduction
-These questions are mainly about how competitive applications for things, such as Fellows, Open Call etc
+These questions pertain to applications for pgrammes or activities (e.g. the Fellowship Programme and Open Call for Projects)
 
 ## Application Questions(AQ)
 Questions will appear as the heading of the section
@@ -45,7 +45,7 @@ Example of writing
 Fellowship programme
 
 #### Hint:
-Provide links to examples of your writing (no more than three, separate links with ',' commas). This could be a blog post, scientific article, white paper,  or project report etc. that you wrote. Reviewers will read a portion of your text/documents to get a felling for your writing style.
+Provide links to examples of your writing (no more than three, separate links with ',' commas). This could be a blog post, scientific article, white paper,  or project report etc. that you wrote. Reviewers will read a portion of your text/documents to get a feeling for your writing style.
 
 #### Type:
 Text

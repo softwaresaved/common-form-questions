@@ -320,23 +320,44 @@ Dropdown
 ##### Sub-If-Chooses:
 Other
 
-##### Sub-Ask-Question:
-Please add other primary funder
-
-##### Sub-Type:
-Text
-
 ### Question:
 ```
-Any additional funders
+Which additional funding body/charity/organisation would  you probably turn to if seeking financial support for your research/work
 ```
+
 #### Reason:
 To understand other funders of attendees/applicants to support assertions to the funding agency of reaching out to their natural communities
 
 #### Hint:
-Please separate funders with a comma
+Please tick all that apply.
 
 #### Type:
+Checkboxes
+
+#### Answer-Choices:
+* EPSRC (Engineering and Physical Sciences Research Council)
+* BBSRC (Biotechnology and Biological Sciences Research Council)
+* ESRC (Economic and Social Research Council)
+* AHRC (Arts and Humanities Research Council)
+* MRC (Medical Research Council)
+* NERC (Natural Environment Research Council)
+* STFC (Science and Technology Funding Council)
+* Jisc
+* Wellcome Trust
+* EU Project
+* My Institution/Organisation
+* Sloan Foundation
+* Other
+
+#### Sub-Question-1:
+
+##### Sub-If-Chooses:
+Other
+
+##### Sub-Ask-Question:
+Please add other additional funders
+
+##### Sub-Type:
 Text
 
 ### Question:

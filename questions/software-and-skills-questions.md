@@ -50,9 +50,6 @@ If Other, please specifiy
 ##### Sub-Type:
 Text
 
-#### Type:
-Checkboxes
-
 ### Question:
 ```
 What programming languages do you use at work (select as many as apply)
