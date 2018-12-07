@@ -9,7 +9,27 @@ For more news on the programme please follow us on Twitter as SoftwareSaved (htt
 
 If you have any questions, please contact us at fellows-management@software.ac.uk.
 
-## Section
+## Section:
+```
+Privacy Policy
+```
+
+### Question:
+```
+I have read and agree to the Fellowship Programme privacy policy available at - https://www.software.ac.uk/fellowship-programme/2019/privacy-policy 
+```
+
+#### Hint:
+If you don't agree to the privacy policy then we will be unable to consider your application.
+
+#### Optionality:
+Mandatory
+
+#### Answer-Choices:
+* Yes
+* No
+
+## Section:
 ```
 About You
 ```
@@ -384,12 +404,12 @@ Dropdown
 
 ## Section
 ```
-You and Software
+You and software
 ```
 ## Section-Hint
-This is information we routinely collect to understand the contexta and enviroments of those invloved in research software.
+This is information we routinely collect to understand the context and environments of those involved in research software.
 
-Answers will be available for reviewers; answers pertaining to platfors/languages/libraries will not be used as part of the assessment of your application.
+Answers will be available for reviewers; answers pertaining to platforms/languages/libraries will not be used as part of the assessment of your application.
 
 ###  Question:
 ```
@@ -449,7 +469,7 @@ What programming languages do you use at work (select as many as apply)
 ```
 
 #### Hint:
-The choices are taken from https://www.tiobe.com/tiobe-index/ [accessed 4 June 2018 - https://www.dropbox.com/s/8g71wvnecvg9hb6/Screenshot%202018-06-04%2015.32.52.png?dl=0] we have added Fortran, Unix Shell, STATA, SPSS and Julia to the list due to knowledge of their use in research computing. We then sort the list alphabetically  
+The choices are taken from https://www.tiobe.com/tiobe-index/ [accessed 4 June 2018] - we have added Fortran, Unix Shell, STATA, SPSS and Julia to the list due to knowledge of their use in research computing. The list has been sorted  alphabetically not in terms of any popularity rating.
 
 #### Optionality:
 Optional
@@ -541,7 +561,7 @@ Text
 
 ### Question:
 ```
-Which additional funding body/charity/organisation would  you probably turn to if seeking financial support for your research/work
+Which additional funding body/charity/organisation would you probably turn to if seeking financial support for your research/work
 ```
 #### Hint:
 Please tick all that apply.
@@ -596,12 +616,13 @@ Host suggestions for your screencast: Google Drive, Dropbox, Nextcloud or OwnClo
 
 More information at https://www.software.ac.uk/fellowship-programme/application-video-guide
 
-Is your responsibility to have your screencast available online until \<date\>. We will not contact candidates if their screencast are offline.
-
 ### Question:
 ```
 Application Screen Cast URL
 ```
+#### Hint:
+Is your responsibility to have your screencast available online until \<date\>. We will not contact candidates if their screencast are offline.
+
 #### Optionality:
 Mandatory 
 
@@ -621,6 +642,20 @@ Mandatory
 
 #### Type:
 Text
+
+### Question:
+```
+Collaboration with other Fellows/Applicants
+```
+
+#### Hint:
+If your plan is a succession of existing Fellows activities or aligns with another application to this round of Fellowship, can you add the persons name and a short description of how your work aligns. You should ideally discuss this with the other person or people before putting in an application. The Institute is very interested in supporting work that build upon previous work in a strategic area and helps nurture and grow communities of practice.  This section is optional and all applications are assessed on their own merit and we are looking to support novel work and new areas also.
+
+#### Optionality:
+Optional
+
+#### Type:
+Paragraph Text
 
 ### Question:
 ```
@@ -683,6 +718,10 @@ Text
 ```
 Please specify your Twitter handle
 ```
+
+#### Hint:
+e.g. @SoftwareSaved
+
 #### Optionality:
 Optional
 
@@ -711,3 +750,58 @@ Optional
 
 #### Type:
 Text
+
+## Section:
+```
+Our Publicity
+```
+
+### Question:
+```
+How did you hear about the Fellowship Programme
+```
+
+#### Optionality:
+Optional
+
+#### Type:
+Multiple Choice
+
+#### Answer-Choices:
+* Institute Website (www.software.ac.uk)
+* Institute Newsletter
+* Institute Twitter (@SoftwareSaved)
+* Email direct from the Institute
+* Email from a mailing list
+* Email from a colleague
+* From an existing Fellow
+* At an Institute event
+* By involvement in an Institute Open Call
+
+#### Sub-Question-1:
+
+##### Sub-If-Chooses:
+Other
+
+##### Sub-Ask-Question:
+Please state how you heard about the Fellowship Programme
+
+##### Sub-Type:
+Text
+
+### Question:
+```
+Would you like to receive the Software Sustainability Institute's weekly newsletter
+```
+
+#### Optionality
+Optional
+
+#### Type:
+Dropdown
+
+#### Answer-Choices:
+* Yes
+* No
+* I already receive it
+
