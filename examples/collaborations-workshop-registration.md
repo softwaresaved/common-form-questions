@@ -654,8 +654,18 @@ Dropdown
 
 ### Question:
 ```
-Would you be interested in running a Mini Workshop (30 minute session) to demonstrate a particular software product, approach, standard at the Collaborations Workshop 
+Would you be interested in running a mini workshop (30 minute session) to demonstrate a particular software product, approach, standard at the Collaborations Workshop 
 ```
+
+#### Optionality:
+Optional
+
+#### Type:
+Dropdown
+
+#### Answer-Choices:
+* Yes
+* No
 
 #### Sub-Question-1:
 
