@@ -53,6 +53,23 @@ Text
 #### Optionality:
 Mandatory (if applicable)
 
+### Question:
+```
+Collaboration with other Fellows/Applicants
+```
+
+#### Applicability:
+Fellowship programme
+
+#### Hint:
+If your plan is a succession of existing Fellows activities or aligns with another application to this round of Fellowship, can you add the persons name and a short description of how your work aligns. You should ideally discuss this with the other person or people before putting in an application. The Institute is very interested in supporting work that build upon previous work in a strategic area and helps nurture and grow communities of practice.  This section is optional and all applications are assessed on their own merit and we are looking to support novel work and new areas also.
+
+#### Optionality:
+Optional
+
+#### Type:
+Paragraph Text
+
 
 ### Question:
 ```
