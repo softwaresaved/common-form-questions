@@ -506,7 +506,7 @@ Checkboxes
 
 ### Question:
 ```
-What software packages and libraries do you use for your work
+What software packages, frameworks and libraries do you use for your work
 ```
 #### Hint:
 Please separate different software products with a comma. If one is a web browser, please indicate the sites/applications/services you use.

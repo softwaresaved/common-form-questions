@@ -7,7 +7,7 @@ Privacy Policy
 
 ### Question:
 ```
-I have read and agree to the Software Sustainability Institute Events privacy policy available at - https://www.software.ac.uk/events/privacy-policy/v1 
+I have read and agree to the Software Sustainability Institute Events registration privacy policy available at - https://www.software.ac.uk/events/privacy-policy/v1 
 ```
 
 #### Hint:
@@ -516,7 +516,7 @@ Checkboxes
 
 ### Question:
 ```
-What software packages and libraries do you use for your work
+What software packages, frameworks and libraries do you use for your work
 ```
 #### Hint:
 Please separate different software products with a comma. If one is a web browser, please indicate the sites/applications/services you use.
