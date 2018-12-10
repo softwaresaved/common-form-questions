@@ -794,6 +794,9 @@ Text
 Please provide details of any disability we should be aware of (to help us with planning)
 ```
 
+#### Optionality:
+Optional
+
 #### Type:
 Text
 
