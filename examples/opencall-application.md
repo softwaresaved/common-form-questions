@@ -74,7 +74,7 @@ Text
 
 ### Question:
 ```
-Please specify any relevant links pertaining to you and your work
+Please specify any relevant links pertaining to your professional self.
 ```
 #### Hint:
 E.g. your institutional page, ORCID (httsp://orcid.org), blog, Twitter page, LinkedIn profile etc.  Please separate links with a comma
@@ -456,7 +456,7 @@ Links to any online resources related to your software
 ```
 
 #### Hint:
-For example, website, blog, GitHub repository, Twitter account, Facebook pages, etc (please separate links with a comma and a space)
+For example, website, blog, GitHub repository, Twitter account, Facebook pages, etc (please separate links with a comma)
 
 #### Optionality:
 Optional
@@ -508,7 +508,7 @@ Text
 
 ### Question:
 ```
-From which sources do you receive or have you received additional related to the proposed work
+From which sources do you receive or have you received additional funds related to the proposed work
 ```
 #### Hint:
 Please tick all that apply.
