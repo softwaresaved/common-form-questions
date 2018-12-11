@@ -24,6 +24,27 @@ Your experience of Collaborations Workshop (CW)
 
 ### Question:
 ```
+Did you attend the workshop, hackathon or both?
+```
+
+#### Hint:
+Tick all that apply (even if you attended for only a part of the day/event)
+
+#### Optionality:
+Mandatory
+
+#### Type:
+Checkboxes
+
+#### Answer-Choices
+* CW Day 1
+* CW Day 2
+* CW Hackday
+
+<here> 
+
+### Question:
+```
 How would you describe attending CW to someone else?
 ```
 
