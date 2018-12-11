@@ -72,6 +72,19 @@ Mandatory
 #### Type
 Text
 
+### Question:
+```
+Please specify any relevant links pertaining to you and your work
+```
+#### Hint:
+E.g. your institutional page, ORCID (httsp://orcid.org), blog, Twitter page, LinkedIn profile etc.  Please separate links with a comma
+
+#### Optionality:
+Optional
+
+#### Type:
+Text
+
 ### Question
 ```
 Gender
@@ -534,14 +547,12 @@ Text
 
 ## Section:
 ```
-What would you want to get from working with the Institute?
+What would you want to get from working with the Institute.
 ```
-
-<here>
 
 ### Question:
 ```
-What do you hope to learn and/or gain by attending Collaborations Workshop
+Which one or two key things would you most want the Institute to help you improve?
 ```
 #### Optionality:
 Mandatory 
@@ -551,8 +562,11 @@ Paragraph Text
 
 ### Question:
 ```
-What topic(s) would you like discussed at the workshop
+How would these things benefit you and/or your software or research community?
 ```
+
+#### Hint:
+Where possible, specify any research groups, projects, companies or other teams or individuals that would directly benefit from this proposed work, and how they would benefit.
 
 #### Optionality:
 Mandatory
@@ -562,247 +576,31 @@ Paragraph Text
 
 ### Question:
 ```
-Would you be willing to present a lightning talk at Collaborations Workshop
+What were the main issues identified by the Institute's Software Evaluation Questionnaire?
 ```
 
 #### Hint:
-This give you two minutes and one slide to cover the intersection of your work and one of the themes
+Note that this is mandatory unless for some reason it does not apply to your case. You can access the questionnaire at http://www.software.ac.uk/online-sustainability-evaluation. If possible, please also provide a link to the submitted questionnaire which is provided at the end of the survey.
 
 #### Optionality:
-Optional
+Mandatory
 
 #### Type:
-Dropdown
-
-#### Answer-Choices:
-* Yes
-* No
-
-### Question:
-```
-Would you be interested in running a mini workshop (30 minute session) to demonstrate a particular software product, approach, standard at the Collaborations Workshop 
-```
-
-#### Optionality:
-Optional
-
-#### Type:
-Dropdown
-
-#### Answer-Choices:
-* Yes
-* No
-
-#### Sub-Question-1:
-
-##### Sub-If-Chooses:
-Yes
-
-##### Sub-Ask-Question:
-Session Title
-
-##### Sub-Type:
-Text
-
-#### Sub-Question-2:
-
-##### Sub-If-Chooses:
-Yes
-
-##### Sub-Ask-Question:
-Session description
-
-##### Sub-Hint:
-We may publish this on the Collaborations Workshop  website for successfully accepted sessions, so please write this as a public description containing 200-400 words)
-
-##### Sub-Type:
 Paragraph Text
 
 ### Question:
 ```
-Will you be attending the Collaborations Workshop Dinner (see agenda)
-```
-
-#### Optionality:
-Optional
-
-#### Type:
-Dropdown
-
-#### Answer-Choices:
-* Yes
-* No
-* Not sure
-
-### Question:
-```
-Will you be attending the Collaborations Workshop Hackday (see agenda)
-```
-
-#### Optionality:
-Optional
-
-#### Type:
-Dropdown
-
-#### Answer-Choices:
-* Yes
-* No
-* Not sure
-
-## Section:
-```
-Data and sharing
-```
-
-### Question:
-```
-Are you happy with us to share your name, affiliation, email address and other supplied links with the other participants 
-```
-
-#### Answer-Choices:
-* Yes
-* No
-* Other
-
-#### Sub-Question-1:
-
-##### Sub-If-Chooses:
-Other
-
-##### Sub-Ask-Question:
-Please provide further details
-
-##### Sub-Type:
-Text
-
-#### Question:
-```
-Are you happy for us to publish audio visual material of the general event that you may be present in? We will use them for publicity for future events and reporting on this event.
-```
-
-#### Answer-Choices:
-* Yes
-* No
-* Other
-
-#### Sub-Question-1:
-
-##### Sub-If-Chooses:
-Other
-
-##### Sub-Ask-Question:
-Please provide further details
-
-
-##### Sub-Type:
-Text
-
-
-## Section:
-```
-Your needs
-```
-
-### Question:
-```
-Please provide details of any dietary requirements we should be aware of (to help us with planning)
-```
-
-#### Optionality:
-Optional
-
-#### Type:
-Text
-
-### Question:
-```
-Please provide details of any disability we should be aware of (to help us with planning)
-```
-
-#### Optionality:
-Optional
-
-#### Type:
-Text
-
-## Section:
-```
-More about you (optional section)
-```
-
-### Section-Hint:
-Please specify any additional information that you would like us to know about, ideally if possible you give us permission (above) to share this with other attendees. 
-
-### Question:
-```
-Please specify your Institutional webpage
-```
-#### Optionality:
-Optional
-
-#### Type:
-Text
-
-### Question:
-```
-Please specify your ORCID
-```
-#### Hint:
-http://orcid.org/about/what-is-orcid/mission
-
-#### Optionality:
-Optional
-
-#### Type:
-Text
-
-### Question:
-```
-Please specify your blog
-```
-#### Optionality:
-Optional
-
-#### Type:
-Text
-
-### Question:
-```
-Please specify your Twitter handle
+Any other information (optional)?
 ```
 
 #### Hint:
-e.g. @SoftwareSaved
+Please provide any other information that you feel would help us with your application.
 
 #### Optionality:
 Optional
 
 #### Type:
-Text
-
-### Question:
-```
-Please specify your LinkedIn profile page
-```
-#### Optionality:
-Optional
-
-#### Type:
-Text
-
-### Question:
-```
-Please specify any other relevant links pertaining to you and your work
-```
-#### Hint:
-Please separate links with a comma
-
-#### Optionality:
-Optional
-
-#### Type:
-Text
+Paragraph Text
 
 ## Section:
 ```
@@ -811,7 +609,7 @@ Our Publicity
 
 ### Question:
 ```
-How did you hear about the Fellowship Programme
+How did you hear about the Open Call
 ```
 
 #### Optionality:
@@ -830,6 +628,7 @@ Multiple Choice
 * From an existing Fellow
 * At an Institute event
 * By involvement in an Institute Open Call
+* Other
 
 #### Sub-Question-1:
 
