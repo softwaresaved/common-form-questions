@@ -97,7 +97,7 @@ Career stage
 To better understand the career stage of attendees/applicants and to connect people of similar of complementary career stages at events (e.g could be combined with research area)
 
 #### Hint:
-If it's not clear which stage you are in please take a look at http://www.leru.org/files/general/UK-England.pdf and (by analogy) choose the appropriate phase that matches your career stage
+If it's not clear which stage you are in please take a look at https://www.leru.org/files/UK-England.pdf and (by analogy) choose the appropriate phase that matches your career stage
 
 #### Type:
 Dropdown
