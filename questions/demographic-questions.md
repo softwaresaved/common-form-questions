@@ -57,6 +57,9 @@ What is your Job Title
 #### Reason:
 Help us to arrange discussion/review group of attendees and candidates also a way of tracking the title used for software oriented jot titles (and the adoption of 'Research Software' in titles)
 
+#### Hint:
+If you are a PhD student, please just enter PhD Candidate and your year or status, e.g. PhD Candidate - year 2 or PhD Candidate - waiting for viva
+
 #### Type:
 Text
 
