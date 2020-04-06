@@ -47,6 +47,9 @@ Telephone
 #### Reason:
 Useful for emergency contact (e.g. needed it for Fellows applicants)
 
+#### Hint:
+Please include country/area code. For example, 44XXXXXXXXXX.
+
 #### Type:
 Text
 
