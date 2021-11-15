@@ -92,11 +92,11 @@ Dropdown
 #### Answer-Choices:
 * Female
 * Male
-* Other
+* In another way
 * Rather not say
 
 ##### Sub-Ask-Question:
-If Other, please specifiy
+If In another way, please specifiy
 
 ##### Sub-Type:
 Text
